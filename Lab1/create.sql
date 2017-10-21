@@ -24,7 +24,7 @@ GO
 CREATE TABLE dbo.T
 (
     TicketId INT NOT NULL, 
-    Passenger VARCHAR NOT NULL,
+    Passenger VARCHAR(85) NOT NULL,
     Fare FLOAT,
     Num INT, 
     Class CHAR,
@@ -54,8 +54,8 @@ GO
 -- Create the table in the specified schema
 CREATE TABLE dbo.P
 (
-    Passenger VARCHAR NOT NULL, 
-    Sex VARCHAR, 
+    Passenger VARCHAR(85) NOT NULL, 
+    Sex VARCHAR(6), 
     Age INT
 );
 GO
@@ -69,7 +69,7 @@ GO
 CREATE TABLE dbo.PTS
 (
     PassengerId  INT NOT NULL,
-    Passenger VARCHAR NOT NULL, 
+    Passenger VARCHAR(85) NOT NULL, 
     TicketId INT NOT NULL, 
     Survival BIT
 );

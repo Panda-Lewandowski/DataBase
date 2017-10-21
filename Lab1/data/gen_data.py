@@ -24,9 +24,9 @@ def format_ticket(ticket):
 
 def format_sur(sur):
     if sur:
-        return 'True'
+        return 'TRUE'
     else:
-        return 'False'
+        return 'FALSE'
 
 
 def generate():
@@ -35,51 +35,59 @@ def generate():
     # print(raw_data.head())
 
     # Generate passengers table as P with PassengerId, Name, Sex, Age
-    p = open('p.txt', 'w')
+    p = open('p.csv', 'w')
+    p.write("Name,Sex,Age\n")
     for i in range(size):
-            p.write("{0:<85}    {1:>10}    {2:>4}\n".format(raw_data.iloc[i]['Name'],
-                                                            raw_data.iloc[i]['Sex'],
-                                                            format_age(raw_data.iloc[i]['Age'])))
+        string_to_write = "{0},{1},{2}\n".format(raw_data.iloc[i]['Name'],
+                                                 raw_data.iloc[i]['Sex'],
+                                                 format_age(raw_data.iloc[i]['Age']))
+        string_to_write = string_to_write.replace(", ", " ")
+        string_to_write = string_to_write.replace("Null", "")
+        p.write(string_to_write)
     p.close()
 
-
-
     # Generate Parch table as S with PassengerId, Name, Survived
-    s = open('s.txt', 'w')
+    s = open('s.csv', 'w')
+    s.write("PassengerId,Parch,SibSp\n")
     for i in range(size):
-        s.write("{0:>4}    {1:>2}    {2:>2}\n".format(raw_data.iloc[i]['PassengerId'],
-                                                      raw_data.iloc[i]['Parch'],
-                                                      raw_data.iloc[i]['SibSp']))
-
+        string_to_write = "{0},{1},{2}\n".format(raw_data.iloc[i]['PassengerId'],
+                                                 raw_data.iloc[i]['Parch'],
+                                                 raw_data.iloc[i]['SibSp'])
+        string_to_write = string_to_write.replace("Null", "")
+        s.write(string_to_write)
     s.close()
 
-    #print(raw_data['Ticket'].value_counts())
-
     # Generate tickets table as T with Ticket, Name, Fare, Persons, Pclass, Embarked
-    t = open('t.txt', 'w')
+    t = open('t.csv', 'w')
+    t.write("Ticket,Name,Fare,Persons, Pclass,Embarked\n")
     for i in range(size):
         uni = raw_data[raw_data.Ticket == raw_data.iloc[i]['Ticket']]
         if raw_data.iloc[i]['Name'] != uni.iloc[0]['Name']:
             continue
 
-        t.write("{0:<10}    {1:<85}    {2:<10}    "
-                "{3:>2}    {4:>2}    {5:<2}\n".format(format_ticket(raw_data.iloc[i]['Ticket']),
-                                                      uni.iloc[0]['Name'],
-                                                      raw_data.iloc[i]['Fare'],
-                                                      uni['Name'].count(),
-                                                      raw_data.iloc[i]['Pclass'],
-                                                      raw_data.iloc[i]['Embarked']))
-
+        string_to_write = "{0},{1},{2},{3},{4},{5}\n".format(format_ticket(raw_data.iloc[i]['Ticket']),
+                                                             uni.iloc[0]['Name'],
+                                                             raw_data.iloc[i]['Fare'],
+                                                             uni['Name'].count(),
+                                                             raw_data.iloc[i]['Pclass'],
+                                                             raw_data.iloc[i]['Embarked'])
+        string_to_write = string_to_write.replace(", ", " ")
+        string_to_write = string_to_write.replace("Null", "123456")  # DEFAULT TICKET
+        string_to_write = string_to_write.replace("nan", "")
+        t.write(string_to_write)
     t.close()
 
-    # Generate Survival table as PTS with PassengerId, Name, Pclass
-    pts = open('pts.txt', 'w')
+    # Generate Survival table as PTS with PassengerId, Name, Ticket, Survived
+    pts = open('pts.csv', 'w')
+    pts.write("PassengerId,Name,Ticket,Survived\n")
     for i in range(size):
-        pts.write("{0:>4}    {1:<85}    {2:<10}    {3:<5}\n".format(raw_data.iloc[i]['PassengerId'],
-                                                                    raw_data.iloc[i]['Name'],
-                                                                    format_ticket(raw_data.iloc[i]['Ticket']),
-                                                                    format_sur(raw_data.iloc[i]['Survived'])))
-
+        string_to_write = "{0},{1},{2},{3}\n".format(raw_data.iloc[i]['PassengerId'],
+                                                     raw_data.iloc[i]['Name'],
+                                                     format_ticket(raw_data.iloc[i]['Ticket']),
+                                                     raw_data.iloc[i]['Survived'])
+        string_to_write = string_to_write.replace(", ", " ")
+        string_to_write = string_to_write.replace("Null", "123456")  # DEFAULT TICKET
+        pts.write(string_to_write)
     pts.close()
 
 

@@ -1,0 +1,892 @@
+PassengerId,Name,Ticket,Survived
+1,Braund Mr. Owen Harris,21171,0
+2,Cumings Mrs. John Bradley (Florence Briggs Thayer),17599,1
+3,Heikkinen Miss. Laina,3101282,1
+4,Futrelle Mrs. Jacques Heath (Lily May Peel),113803,1
+5,Allen Mr. William Henry,373450,0
+6,Moran Mr. James,330877,0
+7,McCarthy Mr. Timothy J,17463,0
+8,Palsson Master. Gosta Leonard,349909,0
+9,Johnson Mrs. Oscar W (Elisabeth Vilhelmina Berg),347742,1
+10,Nasser Mrs. Nicholas (Adele Achem),237736,1
+11,Sandstrom Miss. Marguerite Rut,9549,1
+12,Bonnell Miss. Elizabeth,113783,1
+13,Saundercock Mr. William Henry,2151,0
+14,Andersson Mr. Anders Johan,347082,0
+15,Vestrom Miss. Hulda Amanda Adolfina,350406,0
+16,Hewlett Mrs. (Mary D Kingcome) ,248706,1
+17,Rice Master. Eugene,382652,0
+18,Williams Mr. Charles Eugene,244373,1
+19,Vander Planke Mrs. Julius (Emelia Maria Vandemoortele),345763,0
+20,Masselmani Mrs. Fatima,2649,1
+21,Fynney Mr. Joseph J,239865,0
+22,Beesley Mr. Lawrence,248698,1
+23,McGowan Miss. Anna "Annie",330923,1
+24,Sloper Mr. William Thompson,113788,1
+25,Palsson Miss. Torborg Danira,349909,0
+26,Asplund Mrs. Carl Oscar (Selma Augusta Emilia Johansson),347077,1
+27,Emir Mr. Farred Chehab,2631,0
+28,Fortune Mr. Charles Alexander,19950,0
+29,O'Dwyer Miss. Ellen "Nellie",330959,1
+30,Todoroff Mr. Lalio,349216,0
+31,Uruchurtu Don. Manuel E,17601,0
+32,Spencer Mrs. William Augustus (Marie Eugenie),17569,1
+33,Glynn Miss. Mary Agatha,335677,1
+34,Wheadon Mr. Edward H,24579,0
+35,Meyer Mr. Edgar Joseph,17604,0
+36,Holverson Mr. Alexander Oskar,113789,0
+37,Mamee Mr. Hanna,2677,1
+38,Cann Mr. Ernest Charles,2152,0
+39,Vander Planke Miss. Augusta Maria,345764,0
+40,Nicola-Yarred Miss. Jamila,2651,1
+41,Ahlin Mrs. Johan (Johanna Persdotter Larsson),7546,0
+42,Turpin Mrs. William John Robert (Dorothy Ann Wonnacott),11668,0
+43,Kraeff Mr. Theodor,349253,0
+44,Laroche Miss. Simonne Marie Anne Andree,2123,1
+45,Devaney Miss. Margaret Delia,330958,1
+46,Rogers Mr. William John,23567,0
+47,Lennon Mr. Denis,370371,0
+48,O'Driscoll Miss. Bridget,14311,1
+49,Samaan Mr. Youssef,2662,0
+50,Arnold-Franchi Mrs. Josef (Josefine Franchi),349237,0
+51,Panula Master. Juha Niilo,3101295,0
+52,Nosworthy Mr. Richard Cater,39886,0
+53,Harper Mrs. Henry Sleeper (Myna Haxtun),17572,1
+54,Faunthorpe Mrs. Lizzie (Elizabeth Anne Wilkinson),2926,1
+55,Ostby Mr. Engelhart Cornelius,113509,0
+56,Woolner Mr. Hugh,19947,1
+57,Rugg Miss. Emily,31026,1
+58,Novel Mr. Mansouer,2697,0
+59,West Miss. Constance Mirium,34651,1
+60,Goodwin Master. William Frederick,2144,0
+61,Sirayanian Mr. Orsen,2669,0
+62,Icard Miss. Amelie,113572,1
+63,Harris Mr. Henry Birkhardt,36973,0
+64,Skoog Master. Harald,347088,0
+65,Stewart Mr. Albert A,17605,0
+66,Moubarek Master. Gerios,2661,1
+67,Nye Mrs. (Elizabeth Ramell),29395,1
+68,Crease Mr. Ernest James,3464,0
+69,Andersson Miss. Erna Alexandra,3101281,1
+70,Kink Mr. Vincenz,315151,0
+71,Jenkin Mr. Stephen Curnow,33111,0
+72,Goodwin Miss. Lillian Amy,2144,0
+73,Hood Mr. Ambrose Jr,14879,0
+74,Chronopoulos Mr. Apostolos,2680,0
+75,Bing Mr. Lee,1601,1
+76,Moen Mr. Sigurd Hansen,348123,0
+77,Staneff Mr. Ivan,349208,0
+78,Moutal Mr. Rahamin Haim,374746,0
+79,Caldwell Master. Alden Gates,248738,1
+80,Dowdell Miss. Elizabeth,364516,1
+81,Waelens Mr. Achille,345767,0
+82,Sheerlinck Mr. Jan Baptist,345779,1
+83,McDermott Miss. Brigdet Delia,330932,1
+84,Carrau Mr. Francisco M,113059,0
+85,Ilett Miss. Bertha,14885,1
+86,Backstrom Mrs. Karl Alfred (Maria Mathilda Gustafsson),3101278,1
+87,Ford Mr. William Neal,6608,0
+88,Slocovski Mr. Selman Francis,392086,0
+89,Fortune Miss. Mabel Helen,19950,1
+90,Celotti Mr. Francesco,343275,0
+91,Christmann Mr. Emil,343276,0
+92,Andreasson Mr. Paul Edvin,347466,0
+93,Chaffee Mr. Herbert Fuller,5734,0
+94,Dean Mr. Bertram Frank,2315,0
+95,Coxon Mr. Daniel,364500,0
+96,Shorney Mr. Charles Joseph,374910,0
+97,Goldschmidt Mr. George B,17754,0
+98,Greenfield Mr. William Bertram,17759,1
+99,Doling Mrs. John T (Ada Julia Bone),231919,1
+100,Kantor Mr. Sinai,244367,0
+101,Petranec Miss. Matilda,349245,0
+102,Petroff Mr. Pastcho ("Pentcho"),349215,0
+103,White Mr. Richard Frasar,35281,0
+104,Johansson Mr. Gustaf Joel,7540,0
+105,Gustafsson Mr. Anders Vilhelm,3101276,0
+106,Mionoff Mr. Stoytcho,349207,0
+107,Salkjelsvik Miss. Anna Kristine,343120,1
+108,Moss Mr. Albert Johan,312991,1
+109,Rekic Mr. Tido,349249,0
+110,Moran Miss. Bertha,371110,1
+111,Porter Mr. Walter Chamberlain,110465,0
+112,Zabour Miss. Hileni,2665,0
+113,Barton Mr. David John,324669,0
+114,Jussila Miss. Katriina,4136,0
+115,Attalah Miss. Malake,2627,0
+116,Pekoniemi Mr. Edvard,3101294,0
+117,Connors Mr. Patrick,370369,0
+118,Turpin Mr. William John Robert,11668,0
+119,Baxter Mr. Quigg Edmond,17558,0
+120,Andersson Miss. Ellis Anna Maria,347082,0
+121,Hickman Mr. Stanley George,14879,0
+122,Moore Mr. Leonard Charles,54510,0
+123,Nasser Mr. Nicholas,237736,0
+124,Webber Miss. Susan,27267,1
+125,White Mr. Percival Wayland,35281,0
+126,Nicola-Yarred Master. Elias,2651,1
+127,McMahon Mr. Martin,370372,0
+128,Madsen Mr. Fridtjof Arne,17369,1
+129,Peter Miss. Anna,2668,1
+130,Ekstrom Mr. Johan,347061,0
+131,Drazenoic Mr. Jozef,349241,0
+132,Coelho Mr. Domingos Fernandeo,3101307,0
+133,Robins Mrs. Alexander A (Grace Charity Laury),3337,0
+134,Weisz Mrs. Leopold (Mathilde Francoise Pede),228414,1
+135,Sobey Mr. Samuel James Hayden,29178,0
+136,Richard Mr. Emile,2133,0
+137,Newsom Miss. Helen Monypeny,11752,1
+138,Futrelle Mr. Jacques Heath,113803,0
+139,Osen Mr. Olaf Elon,7534,0
+140,Giglio Mr. Victor,17593,0
+141,Boulos Mrs. Joseph (Sultana),2678,0
+142,Nysten Miss. Anna Sofia,347081,1
+143,Hakkarainen Mrs. Pekka Pietari (Elin Matilda Dolck),3101279,1
+144,Burke Mr. Jeremiah,365222,0
+145,Andrew Mr. Edgardo Samuel,231945,0
+146,Nicholls Mr. Joseph Charles,33112,0
+147,Andersson Mr. August Edvard ("Wennerstrom"),350043,1
+148,Ford Miss. Robina Maggie "Ruby",6608,0
+149,Navratil Mr. Michel ("Louis M Hoffman"),230080,0
+150,Byles Rev. Thomas Roussel Davids,244310,0
+151,Bateman Rev. Robert James,1166,0
+152,Pears Mrs. Thomas (Edith Wearne),113776,1
+153,Meo Mr. Alfonzo,11206,0
+154,van Billiard Mr. Austin Blyler,851,0
+155,Olsen Mr. Ole Martin,265302,0
+156,Williams Mr. Charles Duane,17597,0
+157,Gilnagh Miss. Katherine "Katie",35851,1
+158,Corn Mr. Harry,392090,0
+159,Smiljanic Mr. Mile,315037,0
+160,Sage Master. Thomas Henry,2343,0
+161,Cribb Mr. John Hatfield,371362,0
+162,Watt Mrs. James (Elizabeth "Bessie" Inglis Milne),33595,1
+163,Bengtsson Mr. John Viktor,347068,0
+164,Calic Mr. Jovo,315093,0
+165,Panula Master. Eino Viljami,3101295,0
+166,Goldsmith Master. Frank John William "Frankie",363291,1
+167,Chibnall Mrs. (Edith Martha Bowerman),113505,1
+168,Skoog Mrs. William (Anna Bernhardina Karlsson),347088,0
+169,Baumann Mr. John D,17318,0
+170,Ling Mr. Lee,1601,0
+171,Van der hoef Mr. Wyckoff,111240,0
+172,Rice Master. Arthur,382652,0
+173,Johnson Miss. Eleanor Ileen,347742,1
+174,Sivola Mr. Antti Wilhelm,3101280,0
+175,Smith Mr. James Clinch,17764,0
+176,Klasen Mr. Klas Albin,350404,0
+177,Lefebre Master. Henry Forbes,4133,0
+178,Isham Miss. Ann Elizabeth,17595,0
+179,Hale Mr. Reginald,250653,0
+180,Leonard Mr. Lionel,123456,0
+181,Sage Miss. Constance Gladys,2343,0
+182,Pernot Mr. Rene,2131,0
+183,Asplund Master. Clarence Gustaf Hugo,347077,0
+184,Becker Master. Richard F,230136,1
+185,Kink-Heilmann Miss. Luise Gretchen,315153,1
+186,Rood Mr. Hugh Roscoe,113767,0
+187,O'Brien Mrs. Thomas (Johanna "Hannah" Godfrey),370365,1
+188,Romaine Mr. Charles Hallace ("Mr C Rolmane"),111428,1
+189,Bourke Mr. John,364849,0
+190,Turcin Mr. Stjepan,349247,0
+191,Pinsky Mrs. (Rosa),234604,1
+192,Carbines Mr. William,28424,0
+193,Andersen-Jensen Miss. Carla Christine Nielsine,350046,1
+194,Navratil Master. Michel M,230080,1
+195,Brown Mrs. James Joseph (Margaret Tobin),17610,1
+196,Lurette Miss. Elise,17569,1
+197,Mernagh Mr. Robert,368703,0
+198,Olsen Mr. Karl Siegwart Andreas,4579,0
+199,Madigan Miss. Margaret "Maggie",370370,1
+200,Yrois Miss. Henriette ("Mrs Harbeck"),248747,0
+201,Vande Walle Mr. Nestor Cyriel,345770,0
+202,Sage Mr. Frederick,2343,0
+203,Johanson Mr. Jakob Alfred,3101264,0
+204,Youseff Mr. Gerious,2628,0
+205,Cohen Mr. Gurshon "Gus",3540,1
+206,Strom Miss. Telma Matilda,347054,0
+207,Backstrom Mr. Karl Alfred,3101278,0
+208,Albimona Mr. Nassef Cassem,2699,1
+209,Carr Miss. Helen "Ellen",367231,1
+210,Blank Mr. Henry,112277,1
+211,Ali Mr. Ahmed,3101311,0
+212,Cameron Miss. Clear Annie,13528,1
+213,Perkin Mr. John Henry,21174,0
+214,Givard Mr. Hans Kristensen,250646,0
+215,Kiernan Mr. Philip,367229,0
+216,Newell Miss. Madeleine,35273,1
+217,Honkanen Miss. Eliina,3101283,1
+218,Jacobsohn Mr. Sidney Samuel,243847,0
+219,Bazzani Miss. Albina,11813,1
+220,Harris Mr. Walter,14208,0
+221,Sunderland Mr. Victor Francis,392089,1
+222,Bracken Mr. James H,220367,0
+223,Green Mr. George Henry,21440,0
+224,Nenkoff Mr. Christo,349234,0
+225,Hoyt Mr. Frederick Maxfield,19943,1
+226,Berglund Mr. Karl Ivar Sven,4348,0
+227,Mellors Mr. William John,751,1
+228,Lovell Mr. John Hall ("Henry"),21173,0
+229,Fahlstrom Mr. Arne Jonas,236171,0
+230,Lefebre Miss. Mathilde,4133,0
+231,Harris Mrs. Henry Birkhardt (Irene Wallach),36973,1
+232,Larsson Mr. Bengt Edvin,347067,0
+233,Sjostedt Mr. Ernst Adolf,237442,0
+234,Asplund Miss. Lillian Gertrud,347077,1
+235,Leyson Mr. Robert William Norman,29566,0
+236,Harknett Miss. Alice Phoebe,6609,0
+237,Hold Mr. Stephen,26707,0
+238,Collyer Miss. Marjorie "Lottie",31921,1
+239,Pengelly Mr. Frederick William,28665,0
+240,Hunt Mr. George Henry,1585,0
+241,Zabour Miss. Thamine,2665,0
+242,Murphy Miss. Katherine "Kate",367230,1
+243,Coleridge Mr. Reginald Charles,14263,0
+244,Maenpaa Mr. Matti Alexanteri,3101275,0
+245,Attalah Mr. Sleiman,2694,0
+246,Minahan Dr. William Edward,19928,0
+247,Lindahl Miss. Agda Thorilda Viktoria,347071,0
+248,Hamalainen Mrs. William (Anna),250649,1
+249,Beckwith Mr. Richard Leonard,11751,1
+250,Carter Rev. Ernest Courtenay,244252,0
+251,Reed Mr. James George,362316,0
+252,Strom Mrs. Wilhelm (Elna Matilda Persson),347054,0
+253,Stead Mr. William Thomas,113514,0
+254,Lobb Mr. William Arthur,3336,0
+255,Rosblom Mrs. Viktor (Helena Wilhelmina),370129,0
+256,Touma Mrs. Darwis (Hanne Youssef Razi),2650,1
+257,Thorne Mrs. Gertrude Maybelle,17585,1
+258,Cherry Miss. Gladys,110152,1
+259,Ward Miss. Anna,17755,1
+260,Parrish Mrs. (Lutie Davis),230433,1
+261,Smith Mr. Thomas,384461,0
+262,Asplund Master. Edvin Rojj Felix,347077,1
+263,Taussig Mr. Emil,110413,0
+264,Harrison Mr. William,112059,0
+265,Henry Miss. Delia,382649,0
+266,Reeves Mr. David,17248,0
+267,Panula Mr. Ernesti Arvid,3101295,0
+268,Persson Mr. Ernst Ulrik,347083,1
+269,Graham Mrs. William Thompson (Edith Junkins),17582,1
+270,Bissette Miss. Amelia,17760,1
+271,Cairns Mr. Alexander,113798,0
+272,Tornquist Mr. William Henry,123456,1
+273,Mellinger Mrs. (Elizabeth Anne Maidment),250644,1
+274,Natsch Mr. Charles H,17596,0
+275,Healy Miss. Hanora "Nora",370375,1
+276,Andrews Miss. Kornelia Theodosia,13502,1
+277,Lindblom Miss. Augusta Charlotta,347073,0
+278,Parkes Mr. Francis "Frank",239853,0
+279,Rice Master. Eric,382652,0
+280,Abbott Mrs. Stanton (Rosa Hunt),2673,1
+281,Duane Mr. Frank,336439,0
+282,Olsson Mr. Nils Johan Goransson,347464,0
+283,de Pelsmaeker Mr. Alfons,345778,0
+284,Dorking Mr. Edward Arthur,10482,1
+285,Smith Mr. Richard William,113056,0
+286,Stankovic Mr. Ivan,349239,0
+287,de Mulder Mr. Theodore,345774,1
+288,Naidenoff Mr. Penko,349206,0
+289,Hosono Mr. Masabumi,237798,1
+290,Connolly Miss. Kate,370373,1
+291,Barber Miss. Ellen "Nellie",19877,1
+292,Bishop Mrs. Dickinson H (Helen Walton),11967,1
+293,Levy Mr. Rene Jacques,2163,0
+294,Haas Miss. Aloisia,349236,0
+295,Mineff Mr. Ivan,349233,0
+296,Lewy Mr. Ervin G,17612,0
+297,Hanna Mr. Mansour,2693,0
+298,Allison Miss. Helen Loraine,113781,0
+299,Saalfeld Mr. Adolphe,19988,1
+300,Baxter Mrs. James (Helene DeLaudeniere Chaput),17558,1
+301,Kelly Miss. Anna Katherine "Annie Kate",9234,1
+302,McCoy Mr. Bernard,367226,1
+303,Johnson Mr. William Cahoone Jr,123456,0
+304,Keane Miss. Nora A,226593,1
+305,Williams Mr. Howard Hugh "Harry",2466,0
+306,Allison Master. Hudson Trevor,113781,1
+307,Fleming Miss. Margaret,17421,1
+308,Penasco y Castellana Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo),17758,1
+309,Abelson Mr. Samuel,3381,0
+310,Francatelli Miss. Laura Mabel,17485,1
+311,Hays Miss. Margaret Bechstein,11767,1
+312,Ryerson Miss. Emily Borie,17608,1
+313,Lahtinen Mrs. William (Anna Sylfven),250651,0
+314,Hendekovic Mr. Ignjac,349243,0
+315,Hart Mr. Benjamin,13529,0
+316,Nilsson Miss. Helmina Josefina,347470,1
+317,Kantor Mrs. Sinai (Miriam Sternin),244367,1
+318,Moraweck Dr. Ernest,29011,0
+319,Wick Miss. Mary Natalie,36928,1
+320,Spedden Mrs. Frederic Oakley (Margaretta Corning Stone),16966,1
+321,Dennis Mr. Samuel,21172,0
+322,Danoff Mr. Yoto,349219,0
+323,Slayter Miss. Hilda Mary,234818,1
+324,Caldwell Mrs. Albert Francis (Sylvia Mae Harbaugh),248738,1
+325,Sage Mr. George John Jr,2343,0
+326,Young Miss. Marie Grice,17760,1
+327,Nysveen Mr. Johan Hansen,345364,0
+328,Ball Mrs. (Ada E Hall),28551,1
+329,Goldsmith Mrs. Frank John (Emily Alice Brown),363291,1
+330,Hippach Miss. Jean Gertrude,111361,1
+331,McCoy Miss. Agnes,367226,1
+332,Partner Mr. Austen,113043,0
+333,Graham Mr. George Edward,17582,0
+334,Vander Planke Mr. Leo Edmondus,345764,0
+335,Frauenthal Mrs. Henry William (Clara Heinsheimer),17611,1
+336,Denkoff Mr. Mitto,349225,0
+337,Pears Mr. Thomas Clinton,113776,0
+338,Burns Miss. Elizabeth Margaret,16966,1
+339,Dahl Mr. Karl Edwart,7598,1
+340,Blackwell Mr. Stephen Weart,113784,0
+341,Navratil Master. Edmond Roger,230080,1
+342,Fortune Miss. Alice Elizabeth,19950,1
+343,Collander Mr. Erik Gustaf,248740,0
+344,Sedgwick Mr. Charles Frederick Waddington,244361,0
+345,Fox Mr. Stanley Hubert,229236,0
+346,Brown Miss. Amelia "Mildred",248733,1
+347,Smith Miss. Marion Elsie,31418,1
+348,Davison Mrs. Thomas Henry (Mary E Finck),386525,1
+349,Coutts Master. William Loch "William",37671,1
+350,Dimic Mr. Jovan,315088,0
+351,Odahl Mr. Nils Martin,7267,0
+352,Williams-Lambert Mr. Fletcher Fellows,113510,0
+353,Elias Mr. Tannous,2695,0
+354,Arnold-Franchi Mr. Josef,349237,0
+355,Yousif Mr. Wazli,2647,0
+356,Vanden Steen Mr. Leo Peter,345783,0
+357,Bowerman Miss. Elsie Edith,113505,1
+358,Funk Miss. Annie Clemmer,237671,0
+359,McGovern Miss. Mary,330931,1
+360,Mockler Miss. Helen Mary "Ellie",330980,1
+361,Skoog Mr. Wilhelm,347088,0
+362,del Carlo Mr. Sebastiano,2167,0
+363,Barbara Mrs. (Catherine David),2691,0
+364,Asim Mr. Adola,3101310,0
+365,O'Brien Mr. Thomas,370365,0
+366,Adahl Mr. Mauritz Nils Martin,7076,0
+367,Warren Mrs. Frank Manley (Anna Sophia Atkinson),110813,1
+368,Moussa Mrs. (Mantoura Boulos),2626,1
+369,Jermyn Miss. Annie,14313,1
+370,Aubart Mme. Leontine Pauline,17477,1
+371,Harder Mr. George Achilles,11765,1
+372,Wiklund Mr. Jakob Alfred,3101267,0
+373,Beavan Mr. William Thomas,323951,0
+374,Ringhini Mr. Sante,17760,0
+375,Palsson Miss. Stina Viola,349909,0
+376,Meyer Mrs. Edgar Joseph (Leila Saks),17604,1
+377,Landergren Miss. Aurora Adelia,7077,1
+378,Widener Mr. Harry Elkins,113503,0
+379,Betros Mr. Tannous,2648,0
+380,Gustafsson Mr. Karl Gideon,347069,0
+381,Bidois Miss. Rosalie,17757,1
+382,Nakid Miss. Maria ("Mary"),2653,1
+383,Tikkanen Mr. Juho,3101293,0
+384,Holverson Mrs. Alexander Oskar (Mary Aline Towner),113789,1
+385,Plotcharsky Mr. Vasil,349227,0
+386,Davies Mr. Charles Henry,14879,0
+387,Goodwin Master. Sidney Leonard,2144,0
+388,Buss Miss. Kate,27849,1
+389,Sadlier Mr. Matthew,367655,0
+390,Lehmann Miss. Bertha,1748,1
+391,Carter Mr. William Ernest,113760,1
+392,Jansson Mr. Carl Olof,350034,1
+393,Gustafsson Mr. Johan Birger,3101277,0
+394,Newell Miss. Marjorie,35273,1
+395,Sandstrom Mrs. Hjalmar (Agnes Charlotta Bengtsson),9549,1
+396,Johansson Mr. Erik,350052,0
+397,Olsson Miss. Elina,350407,0
+398,McKane Mr. Peter David,28403,0
+399,Pain Dr. Alfred,244278,0
+400,Trout Mrs. William H (Jessie L),240929,1
+401,Niskanen Mr. Juha,3101289,1
+402,Adams Mr. John,341826,0
+403,Jussila Miss. Mari Aina,4137,0
+404,Hakkarainen Mr. Pekka Pietari,3101279,0
+405,Oreskovic Miss. Marija,315096,0
+406,Gale Mr. Shadrach,28664,0
+407,Widegren Mr. Carl/Charles Peter,347064,0
+408,Richards Master. William Rowe,29106,1
+409,Birkeland Mr. Hans Martin Monsen,312992,0
+410,Lefebre Miss. Ida,4133,0
+411,Sdycoff Mr. Todor,349222,0
+412,Hart Mr. Henry,394140,0
+413,Minahan Miss. Daisy E,19928,1
+414,Cunningham Mr. Alfred Fleming,239853,0
+415,Sundman Mr. Johan Julian,3101269,1
+416,Meek Mrs. Thomas (Annie Louise Rowley),343095,0
+417,Drew Mrs. James Vivian (Lulu Thorne Christian),28220,1
+418,Silven Miss. Lyyli Karoliina,250652,1
+419,Matthews Mr. William John,28228,0
+420,Van Impe Miss. Catharina,345773,0
+421,Gheorgheff Mr. Stanio,349254,0
+422,Charters Mr. David,13032,0
+423,Zimmerman Mr. Leo,315082,0
+424,Danbom Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren),347080,0
+425,Rosblom Mr. Viktor Richard,370129,0
+426,Wiseman Mr. Phillippe,34244,0
+427,Clarke Mrs. Charles V (Ada Maria Winfield),2003,1
+428,Phillips Miss. Kate Florence ("Mrs Kate Louise Phillips Marshall"),250655,1
+429,Flynn Mr. James,364851,0
+430,Pickard Mr. Berk (Berk Trembisky),392078,1
+431,Bjornstrom-Steffansson Mr. Mauritz Hakan,110564,1
+432,Thorneycroft Mrs. Percival (Florence Kate White),376564,1
+433,Louch Mrs. Charles Alexander (Alice Adelaide Slow),3085,1
+434,Kallio Mr. Nikolai Erland,3101274,0
+435,Silvey Mr. William Baird,13507,0
+436,Carter Miss. Lucile Polk,113760,1
+437,Ford Miss. Doolina Margaret "Daisy",6608,0
+438,Richards Mrs. Sidney (Emily Hocking),29106,1
+439,Fortune Mr. Mark,19950,0
+440,Kvillner Mr. Johan Henrik Johannesson,18723,0
+441,Hart Mrs. Benjamin (Esther Ada Bloomfield),13529,1
+442,Hampe Mr. Leon,345769,0
+443,Petterson Mr. Johan Emil,347076,0
+444,Reynaldo Ms. Encarnacion,230434,1
+445,Johannesen-Bratthammer Mr. Bernt,65306,1
+446,Dodge Master. Washington,33638,1
+447,Mellinger Miss. Madeleine Violet,250644,1
+448,Seward Mr. Frederic Kimber,113794,1
+449,Baclini Miss. Marie Catherine,2666,1
+450,Peuchen Major. Arthur Godfrey,113786,1
+451,West Mr. Edwy Arthur,34651,0
+452,Hagland Mr. Ingvald Olai Olsen,65303,0
+453,Foreman Mr. Benjamin Laventall,113051,0
+454,Goldenberg Mr. Samuel L,17453,1
+455,Peduzzi Mr. Joseph,2817,0
+456,Jalsevac Mr. Ivan,349240,1
+457,Millet Mr. Francis Davis,13509,0
+458,Kenyon Mrs. Frederick R (Marion),17464,1
+459,Toomey Miss. Ellen,13531,1
+460,O'Connor Mr. Maurice,371060,0
+461,Anderson Mr. Harry,19952,1
+462,Morley Mr. William,364506,0
+463,Gee Mr. Arthur H,111320,0
+464,Milling Mr. Jacob Christian,234360,0
+465,Maisner Mr. Simon,2816,0
+466,Goncalves Mr. Manuel Estanslas,3101306,0
+467,Campbell Mr. William,239853,0
+468,Smart Mr. John Montgomery,113792,0
+469,Scanlan Mr. James,36209,0
+470,Baclini Miss. Helene Barbara,2666,1
+471,Keefe Mr. Arthur,323592,0
+472,Cacic Mr. Luka,315089,0
+473,West Mrs. Edwy Arthur (Ada Mary Worth),34651,1
+474,Jerwan Mrs. Amin S (Marie Marthe Thuillard),541,1
+475,Strandberg Miss. Ida Sofia,7553,0
+476,Clifford Mr. George Quincy,110465,0
+477,Renouf Mr. Peter Henry,31027,0
+478,Braund Mr. Lewis Richard,3460,0
+479,Karlsson Mr. Nils August,350060,0
+480,Hirvonen Miss. Hildur E,3101298,1
+481,Goodwin Master. Harold Victor,2144,0
+482,Frost Mr. Anthony Wood "Archie",239854,0
+483,Rouse Mr. Richard Henry,3594,0
+484,Turkula Mrs. (Hedwig),4134,1
+485,Bishop Mr. Dickinson H,11967,1
+486,Lefebre Miss. Jeannie,4133,0
+487,Hoyt Mrs. Frederick Maxfield (Jane Anne Forby),19943,1
+488,Kent Mr. Edward Austin,11771,0
+489,Somerton Mr. Francis William,18509,0
+490,Coutts Master. Eden Leslie "Neville",37671,1
+491,Hagland Mr. Konrad Mathias Reiersen,65304,0
+492,Windelov Mr. Einar,3101317,0
+493,Molson Mr. Harry Markland,113787,0
+494,Artagaveytia Mr. Ramon,17609,0
+495,Stanley Mr. Edward Roland,45380,0
+496,Yousseff Mr. Gerious,2627,0
+497,Eustis Miss. Elizabeth Mussey,36947,1
+498,Shellard Mr. Frederick William,6212,0
+499,Allison Mrs. Hudson J C (Bessie Waldo Daniels),113781,0
+500,Svensson Mr. Olof,350035,0
+501,Calic Mr. Petar,315086,0
+502,Canavan Miss. Mary,364846,0
+503,O'Sullivan Miss. Bridget Mary,330909,0
+504,Laitinen Miss. Kristina Sofia,4135,0
+505,Maioni Miss. Roberta,110152,1
+506,Penasco y Castellana Mr. Victor de Satode,17758,0
+507,Quick Mrs. Frederick Charles (Jane Richards),26360,1
+508,Bradley Mr. George ("George Arthur Brayton"),111427,1
+509,Olsen Mr. Henry Margido,4001,0
+510,Lang Mr. Fang,1601,1
+511,Daly Mr. Eugene Patrick,382651,1
+512,Webber Mr. James,3101316,0
+513,McGough Mr. James Robert,17473,1
+514,Rothschild Mrs. Martin (Elizabeth L. Barrett),17603,1
+515,Coleff Mr. Satio,349209,0
+516,Walker Mr. William Anderson,36967,0
+517,Lemore Mrs. (Amelia Milley),34260,1
+518,Ryan Mr. Patrick,371110,0
+519,Angle Mrs. William A (Florence "Mary" Agnes Hughes),226875,1
+520,Pavlovic Mr. Stefo,349242,0
+521,Perreault Miss. Anne,12749,1
+522,Vovk Mr. Janko,349252,0
+523,Lahoud Mr. Sarkis,2624,0
+524,Hippach Mrs. Louis Albert (Ida Sophia Fischer),111361,1
+525,Kassem Mr. Fared,2700,0
+526,Farrell Mr. James,367232,0
+527,Ridsdale Miss. Lucy,14258,1
+528,Farthing Mr. John,17483,0
+529,Salonen Mr. Johan Werner,3101296,0
+530,Hocking Mr. Richard George,29104,0
+531,Quick Miss. Phyllis May,26360,1
+532,Toufik Mr. Nakli,2641,0
+533,Elias Mr. Joseph Jr,2690,0
+534,Peter Mrs. Catherine (Catherine Rizk),2668,1
+535,Cacic Miss. Marija,315084,0
+536,Hart Miss. Eva Miriam,13529,1
+537,Butt Major. Archibald Willingham,113050,0
+538,LeRoy Miss. Bertha,17761,1
+539,Risien Mr. Samuel Beard,364498,0
+540,Frolicher Miss. Hedwig Margaritha,13568,1
+541,Crosby Miss. Harriet R,5735,1
+542,Andersson Miss. Ingeborg Constanzia,347082,0
+543,Andersson Miss. Sigrid Elisabeth,347082,0
+544,Beane Mr. Edward,2908,1
+545,Douglas Mr. Walter Donald,17761,0
+546,Nicholson Mr. Arthur Ernest,693,0
+547,Beane Mrs. Edward (Ethel Clarke),2908,1
+548,Padro y Manent Mr. Julian,2146,1
+549,Goldsmith Mr. Frank John,363291,0
+550,Davies Master. John Morgan Jr,33112,1
+551,Thayer Mr. John Borland Jr,17421,1
+552,Sharp Mr. Percival James R,244358,0
+553,O'Brien Mr. Timothy,330979,0
+554,Leeni Mr. Fahim ("Philip Zenni"),2620,1
+555,Ohman Miss. Velin,347085,1
+556,Wright Mr. George,113807,0
+557,Duff Gordon Lady. (Lucille Christiana Sutherland) ("Mrs Morgan"),11755,1
+558,Robbins Mr. Victor,17757,0
+559,Taussig Mrs. Emil (Tillie Mandelbaum),110413,1
+560,de Messemaeker Mrs. Guillaume Joseph (Emma),345572,1
+561,Morrow Mr. Thomas Rowan,372622,0
+562,Sivic Mr. Husein,349251,0
+563,Norman Mr. Robert Douglas,218629,0
+564,Simmons Mr. John,392082,0
+565,Meanwell Miss. (Marion Ogden),392087,0
+566,Davies Mr. Alfred J,48871,0
+567,Stoytcheff Mr. Ilia,349205,0
+568,Palsson Mrs. Nils (Alma Cornelia Berglund),349909,0
+569,Doharr Mr. Tannous,2686,0
+570,Jonsson Mr. Carl,350417,1
+571,Harris Mr. George,752,1
+572,Appleton Mrs. Edward Dale (Charlotte Lamson),11769,1
+573,Flynn Mr. John Irwin ("Irving"),17474,1
+574,Kelly Miss. Mary,14312,1
+575,Rush Mr. Alfred George John,20589,0
+576,Patchett Mr. George,358585,0
+577,Garside Miss. Ethel,243880,1
+578,Silvey Mrs. William Baird (Alice Munger),13507,1
+579,Caram Mrs. Joseph (Maria Elias),2689,0
+580,Jussila Mr. Eiriik,3101286,1
+581,Christy Miss. Julie Rachel,237789,1
+582,Thayer Mrs. John Borland (Marian Longstreth Morris),17421,1
+583,Downton Mr. William James,28403,0
+584,Ross Mr. John Hugo,13049,0
+585,Paulner Mr. Uscher,3411,0
+586,Taussig Miss. Ruth,110413,1
+587,Jarvis Mr. John Denzil,237565,0
+588,Frolicher-Stehli Mr. Maxmillian,13567,1
+589,Gilinski Mr. Eliezer,14973,0
+590,Murdlin Mr. Joseph,3235,0
+591,Rintamaki Mr. Matti,3101273,0
+592,Stephenson Mrs. Walter Bertram (Martha Eustis),36947,1
+593,Elsbury Mr. William James,3902,0
+594,Bourke Miss. Mary,364848,0
+595,Chapman Mr. John Henry,29037,0
+596,Van Impe Mr. Jean Baptiste,345773,0
+597,Leitch Miss. Jessie Wills,248727,1
+598,Johnson Mr. Alfred,123456,0
+599,Boulos Mr. Hanna,2664,0
+600,Duff Gordon Sir. Cosmo Edmund ("Mr Morgan"),17485,1
+601,Jacobsohn Mrs. Sidney Samuel (Amy Frances Christy),243847,1
+602,Slabenoff Mr. Petco,349214,0
+603,Harrington Mr. Charles H,113796,0
+604,Torber Mr. Ernst William,364511,0
+605,Homer Mr. Harry ("Mr E Haven"),111426,1
+606,Lindell Mr. Edvard Bengtsson,349910,0
+607,Karaic Mr. Milan,349246,0
+608,Daniel Mr. Robert Williams,113804,1
+609,Laroche Mrs. Joseph (Juliette Marie Louise Lafargue),2123,1
+610,Shutes Miss. Elizabeth W,17582,1
+611,Andersson Mrs. Anders Johan (Alfrida Konstantia Brogren),347082,0
+612,Jardin Mr. Jose Neto,3101305,0
+613,Murphy Miss. Margaret Jane,367230,1
+614,Horgan Mr. John,370377,0
+615,Brocklebank Mr. William Alfred,364512,0
+616,Herman Miss. Alice,220845,1
+617,Danbom Mr. Ernst Gilbert,347080,0
+618,Lobb Mrs. William Arthur (Cordelia K Stanlick),3336,0
+619,Becker Miss. Marion Louise,230136,1
+620,Gavey Mr. Lawrence,31028,0
+621,Yasbeck Mr. Antoni,2659,0
+622,Kimball Mr. Edwin Nelson Jr,11753,1
+623,Nakid Mr. Sahid,2653,1
+624,Hansen Mr. Henry Damsgaard,350029,0
+625,Bowen Mr. David John "Dai",54636,0
+626,Sutton Mr. Frederick,36963,0
+627,Kirkland Rev. Charles Leonard,219533,0
+628,Longley Miss. Gretchen Fiske,13502,1
+629,Bostandyeff Mr. Guentcho,349224,0
+630,O'Connell Mr. Patrick D,334912,0
+631,Barkworth Mr. Algernon Henry Wilson,27042,1
+632,Lundahl Mr. Johan Svensson,347743,0
+633,Stahelin-Maeglin Dr. Max,13214,1
+634,Parr Mr. William Henry Marsh,112052,0
+635,Skoog Miss. Mabel,347088,0
+636,Davis Miss. Mary,237668,1
+637,Leinonen Mr. Antti Gustaf,3101292,0
+638,Collyer Mr. Harvey,31921,0
+639,Panula Mrs. Juha (Maria Emilia Ojala),3101295,0
+640,Thorneycroft Mr. Percival,376564,0
+641,Jensen Mr. Hans Peder,350050,0
+642,Sagesser Mlle. Emma,17477,1
+643,Skoog Miss. Margit Elizabeth,347088,0
+644,Foo Mr. Choong,1601,1
+645,Baclini Miss. Eugenie,2666,1
+646,Harper Mr. Henry Sleeper,17572,1
+647,Cor Mr. Liudevit,349231,0
+648,Simonius-Blumer Col. Oberst Alfons,13213,1
+649,Willey Mr. Edward,751,0
+650,Stanley Miss. Amy Zillah Elsie,2314,1
+651,Mitkoff Mr. Mito,349221,0
+652,Doling Miss. Elsie,231919,1
+653,Kalvik Mr. Johannes Halvorsen,8475,0
+654,O'Leary Miss. Hanora "Norah",330919,1
+655,Hegarty Miss. Hanora "Nora",365226,0
+656,Hickman Mr. Leonard Mark,14879,0
+657,Radeff Mr. Alexander,349223,0
+658,Bourke Mrs. John (Catherine),364849,0
+659,Eitemiller Mr. George Floyd,29751,0
+660,Newell Mr. Arthur Webster,35273,0
+661,Frauenthal Dr. Henry William,17611,1
+662,Badt Mr. Mohamed,2623,0
+663,Colley Mr. Edward Pomeroy,5727,0
+664,Coleff Mr. Peju,349210,0
+665,Lindqvist Mr. Eino William,3101285,1
+666,Hickman Mr. Lewis,14879,0
+667,Butler Mr. Reginald Fenton,234686,0
+668,Rommetvedt Mr. Knud Paust,312993,0
+669,Cook Mr. Jacob,3536,0
+670,Taylor Mrs. Elmer Zebley (Juliet Cummins Wright),19996,1
+671,Brown Mrs. Thomas William Solomon (Elizabeth Catherine Ford),29750,1
+672,Davidson Mr. Thornton,12750,0
+673,Mitchell Mr. Henry Michael,24580,0
+674,Wilhelms Mr. Charles,244270,1
+675,Watson Mr. Ennis Hastings,239856,0
+676,Edvardsson Mr. Gustaf Hjalmar,349912,0
+677,Sawyer Mr. Frederick Charles,342826,0
+678,Turja Miss. Anna Sofia,4138,1
+679,Goodwin Mrs. Frederick (Augusta Tyler),2144,0
+680,Cardeza Mr. Thomas Drake Martinez,17755,1
+681,Peters Miss. Katie,330935,0
+682,Hassab Mr. Hammad,17572,1
+683,Olsvigen Mr. Thor Anderson,6563,0
+684,Goodwin Mr. Charles Edward,2144,0
+685,Brown Mr. Thomas William Solomon,29750,0
+686,Laroche Mr. Joseph Philippe Lemercier,2123,0
+687,Panula Mr. Jaako Arnold,3101295,0
+688,Dakic Mr. Branko,349228,0
+689,Fischer Mr. Eberhard Thelander,350036,0
+690,Madill Miss. Georgette Alexandra,24160,1
+691,Dick Mr. Albert Adrian,17474,1
+692,Karun Miss. Manca,349256,1
+693,Lam Mr. Ali,1601,1
+694,Saad Mr. Khalil,2672,0
+695,Weir Col. John,113800,0
+696,Chapman Mr. Charles Henry,248731,0
+697,Kelly Mr. James,363592,0
+698,Mullens Miss. Katherine "Katie",35852,1
+699,Thayer Mr. John Borland,17421,0
+700,Humblen Mr. Adolf Mathias Nicolai Olsen,348121,0
+701,Astor Mrs. John Jacob (Madeleine Talmadge Force),17757,1
+702,Silverthorne Mr. Spencer Victor,17475,1
+703,Barbara Miss. Saiide,2691,0
+704,Gallagher Mr. Martin,36864,0
+705,Hansen Mr. Henrik Juul,350025,0
+706,Morley Mr. Henry Samuel ("Mr Henry Marshall"),250655,0
+707,Kelly Mrs. Florence "Fannie",223596,1
+708,Calderhead Mr. Edward Pennington,17476,1
+709,Cleaver Miss. Alice,113781,1
+710,Moubarek Master. Halim Gonios ("William George"),2661,1
+711,Mayne Mlle. Berthe Antonine ("Mrs de Villiers"),17482,1
+712,Klaber Mr. Herman,113028,0
+713,Taylor Mr. Elmer Zebley,19996,1
+714,Larsson Mr. August Viktor,7545,0
+715,Greenberg Mr. Samuel,250647,0
+716,Soholt Mr. Peter Andreas Lauritz Andersen,348124,0
+717,Endres Miss. Caroline Louise,17757,1
+718,Troutt Miss. Edwina Celia "Winnie",34218,1
+719,McEvoy Mr. Michael,36568,0
+720,Johnson Mr. Malkolm Joackim,347062,0
+721,Harper Miss. Annie Jessie "Nina",248727,1
+722,Jensen Mr. Svend Lauritz,350048,0
+723,Gillespie Mr. William Henry,12233,0
+724,Hodges Mr. Henry Price,250643,0
+725,Chambers Mr. Norman Campbell,113806,1
+726,Oreskovic Mr. Luka,315094,0
+727,Renouf Mrs. Peter Henry (Lillian Jefferys),31027,1
+728,Mannion Miss. Margareth,36866,1
+729,Bryhl Mr. Kurt Arnold Gottfrid,236853,0
+730,Ilmakangas Miss. Pieta Sofia,3101271,0
+731,Allen Miss. Elisabeth Walton,24160,1
+732,Hassan Mr. Houssein G N,2699,0
+733,Knight Mr. Robert J,239855,0
+734,Berriman Mr. William John,28425,0
+735,Troupiansky Mr. Moses Aaron,233639,0
+736,Williams Mr. Leslie,54636,0
+737,Ford Mrs. Edward (Margaret Ann Watson),6608,0
+738,Lesurer Mr. Gustave J,17755,1
+739,Ivanoff Mr. Kanio,349201,0
+740,Nankoff Mr. Minko,349218,0
+741,Hawksford Mr. Walter James,16988,1
+742,Cavendish Mr. Tyrell William,19877,0
+743,Ryerson Miss. Susan Parker "Suzette",17608,1
+744,McNamee Mr. Neal,376566,0
+745,Stranden Mr. Juho,3101288,1
+746,Crosby Capt. Edward Gifford,5735,0
+747,Abbott Mr. Rossmore Edward,2673,0
+748,Sinkkonen Miss. Anna,250648,1
+749,Marvin Mr. Daniel Warner,113773,0
+750,Connaghton Mr. Michael,335097,0
+751,Wells Miss. Joan,29103,1
+752,Moor Master. Meier,392096,1
+753,Vande Velde Mr. Johannes Joseph,345780,0
+754,Jonkoff Mr. Lalio,349204,0
+755,Herman Mrs. Samuel (Jane Laver),220845,1
+756,Hamalainen Master. Viljo,250649,1
+757,Carlsson Mr. August Sigfrid,350042,0
+758,Bailey Mr. Percy Andrew,29108,0
+759,Theobald Mr. Thomas Leonard,363294,0
+760,Rothes the Countess. of (Lucy Noel Martha Dyer-Edwards),110152,1
+761,Garfirth Mr. John,358585,0
+762,Nirva Mr. Iisakki Antino Aijo,3101272,0
+763,Barah Mr. Hanna Assi,2663,1
+764,Carter Mrs. William Ernest (Lucile Polk),113760,1
+765,Eklund Mr. Hans Linus,347074,0
+766,Hogeboom Mrs. John C (Anna Andrews),13502,1
+767,Brewe Dr. Arthur Jackson,112379,0
+768,Mangan Miss. Mary,364850,0
+769,Moran Mr. Daniel J,371110,0
+770,Gronnestad Mr. Daniel Danielsen,8471,0
+771,Lievens Mr. Rene Aime,345781,0
+772,Jensen Mr. Niels Peder,350047,0
+773,Mack Mrs. (Mary),3,0
+774,Elias Mr. Dibo,2674,0
+775,Hocking Mrs. Elizabeth (Eliza Needs),29105,1
+776,Myhrman Mr. Pehr Fabian Oliver Malkolm,347078,0
+777,Tobin Mr. Roger,383121,0
+778,Emanuel Miss. Virginia Ethel,364516,1
+779,Kilgannon Mr. Thomas J,36865,0
+780,Robert Mrs. Edward Scott (Elisabeth Walton McMillan),24160,1
+781,Ayoub Miss. Banoura,2687,1
+782,Dick Mrs. Albert Adrian (Vera Gillespie),17474,1
+783,Long Mr. Milton Clyde,113501,0
+784,Johnston Mr. Andrew G,6607,0
+785,Ali Mr. William,3101312,0
+786,Harmer Mr. Abraham (David Lishin),374887,0
+787,Sjoblom Miss. Anna Sofia,3101265,1
+788,Rice Master. George Hugh,382652,0
+789,Dean Master. Bertram Vere,2315,1
+790,Guggenheim Mr. Benjamin,17593,0
+791,Keane Mr. Andrew "Andy",12460,0
+792,Gaskell Mr. Alfred,239865,0
+793,Sage Miss. Stella Anna,2343,0
+794,Hoyt Mr. William Fisher,17600,0
+795,Dantcheff Mr. Ristiu,349203,0
+796,Otter Mr. Richard,28213,0
+797,Leader Dr. Alice (Farnham),17465,1
+798,Osman Mrs. Mara,349244,1
+799,Ibrahim Shawah Mr. Yousseff,2685,0
+800,Van Impe Mrs. Jean Baptiste (Rosalie Paula Govaert),345773,0
+801,Ponesell Mr. Martin,250647,0
+802,Collyer Mrs. Harvey (Charlotte Annie Tate),31921,1
+803,Carter Master. William Thornton II,113760,1
+804,Thomas Master. Assad Alexander,2625,1
+805,Hedman Mr. Oskar Arvid,347089,1
+806,Johansson Mr. Karl Johan,347063,0
+807,Andrews Mr. Thomas Jr,112050,0
+808,Pettersson Miss. Ellen Natalia,347087,0
+809,Meyer Mr. August,248723,0
+810,Chambers Mrs. Norman Campbell (Bertha Griggs),113806,1
+811,Alexander Mr. William,3474,0
+812,Lester Mr. James,48871,0
+813,Slemen Mr. Richard James,28206,0
+814,Andersson Miss. Ebba Iris Alfrida,347082,0
+815,Tomlin Mr. Ernest Portage,364499,0
+816,Fry Mr. Richard,112058,0
+817,Heininen Miss. Wendla Maria,3101290,0
+818,Mallet Mr. Albert,2079,0
+819,Holm Mr. John Fredrik Alexander,7075,0
+820,Skoog Master. Karl Thorsten,347088,0
+821,Hays Mrs. Charles Melville (Clara Jennings Gregg),12749,1
+822,Lulic Mr. Nikola,315098,1
+823,Reuchlin Jonkheer. John George,19972,0
+824,Moor Mrs. (Beila),392096,1
+825,Panula Master. Urho Abraham,3101295,0
+826,Flynn Mr. John,368323,0
+827,Lam Mr. Len,1601,0
+828,Mallet Master. Andre,2079,1
+829,McCormack Mr. Thomas Joseph,367228,1
+830,Stone Mrs. George Nelson (Martha Evelyn),113572,1
+831,Yasbeck Mrs. Antoni (Selini Alexander),2659,1
+832,Richards Master. George Sibley,29106,1
+833,Saad Mr. Amin,2671,0
+834,Augustsson Mr. Albert,347468,0
+835,Allum Mr. Owen George,2223,0
+836,Compton Miss. Sara Rebecca,17756,1
+837,Pasic Mr. Jakob,315097,0
+838,Sirota Mr. Maurice,392092,0
+839,Chip Mr. Chang,1601,1
+840,Marechal Mr. Pierre,11774,1
+841,Alhomaki Mr. Ilmari Rudolf,3101287,0
+842,Mudd Mr. Thomas Charles,3,0
+843,Serepeca Miss. Augusta,113798,1
+844,Lemberopolous Mr. Peter L,2683,0
+845,Culumovic Mr. Jeso,315090,0
+846,Abbing Mr. Anthony,5547,0
+847,Sage Mr. Douglas Bullen,2343,0
+848,Markoff Mr. Marin,349213,0
+849,Harper Rev. John,248727,0
+850,Goldenberg Mrs. Samuel L (Edwiga Grabowska),17453,1
+851,Andersson Master. Sigvard Harald Elias,347082,0
+852,Svensson Mr. Johan,347060,0
+853,Boulos Miss. Nourelain,2678,0
+854,Lines Miss. Mary Conover,17592,1
+855,Carter Mrs. Ernest Courtenay (Lilian Hughes),244252,0
+856,Aks Mrs. Sam (Leah Rosen),392091,1
+857,Wick Mrs. George Dennick (Mary Hitchcock),36928,1
+858,Daly Mr. Peter Denis ,113055,1
+859,Baclini Mrs. Solomon (Latifa Qurban),2666,1
+860,Razi Mr. Raihed,2629,0
+861,Hansen Mr. Claus Peter,350026,0
+862,Giles Mr. Frederick Edward,28134,0
+863,Swift Mrs. Frederick Joel (Margaret Welles Barron),17466,1
+864,Sage Miss. Dorothy Edith "Dolly",2343,0
+865,Gill Mr. John William,233866,0
+866,Bystrom Mrs. (Karolina),236852,1
+867,Duran y More Miss. Asuncion,2149,1
+868,Roebling Mr. Washington Augustus II,17590,0
+869,van Melkebeke Mr. Philemon,345777,0
+870,Johnson Master. Harold Theodor,347742,1
+871,Balkic Mr. Cerin,349248,0
+872,Beckwith Mrs. Richard Leonard (Sallie Monypeny),11751,1
+873,Carlsson Mr. Frans Olof,695,0
+874,Vander Cruyssen Mr. Victor,345765,0
+875,Abelson Mrs. Samuel (Hannah Wizosky),3381,1
+876,Najib Miss. Adele Kiamie "Jane",2667,1
+877,Gustafsson Mr. Alfred Ossian,7534,0
+878,Petroff Mr. Nedelio,349212,0
+879,Laleff Mr. Kristo,349217,0
+880,Potter Mrs. Thomas Jr (Lily Alexenia Wilson),11767,1
+881,Shelley Mrs. William (Imanita Parrish Hall),230433,1
+882,Markun Mr. Johann,349257,0
+883,Dahlberg Miss. Gerda Ulrika,7552,0
+884,Banfield Mr. Frederick James,34068,0
+885,Sutehall Mr. Henry Jr,392076,0
+886,Rice Mrs. William (Margaret Norton),382652,0
+887,Montvila Rev. Juozas,211536,0
+888,Graham Miss. Margaret Edith,112053,1
+889,Johnston Miss. Catherine Helen "Carrie",6607,0
+890,Behr Mr. Karl Howell,111369,1
+891,Dooley Mr. Patrick,370376,0

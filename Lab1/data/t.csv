@@ -1,0 +1,682 @@
+Ticket,Name,Fare,Persons, Pclass,Embarked
+21171,Braund Mr. Owen Harris,7.25,1,3,S
+17599,Cumings Mrs. John Bradley (Florence Briggs Thayer),71.2833,1,1,C
+3101282,Heikkinen Miss. Laina,7.925,1,3,S
+113803,Futrelle Mrs. Jacques Heath (Lily May Peel),53.1,2,1,S
+373450,Allen Mr. William Henry,8.05,1,3,S
+330877,Moran Mr. James,8.4583,1,3,Q
+17463,McCarthy Mr. Timothy J,51.8625,1,1,S
+349909,Palsson Master. Gosta Leonard,21.075,4,3,S
+347742,Johnson Mrs. Oscar W (Elisabeth Vilhelmina Berg),11.1333,3,3,S
+237736,Nasser Mrs. Nicholas (Adele Achem),30.0708,2,2,C
+9549,Sandstrom Miss. Marguerite Rut,16.7,2,3,S
+113783,Bonnell Miss. Elizabeth,26.55,1,1,S
+2151,Saundercock Mr. William Henry,8.05,1,3,S
+347082,Andersson Mr. Anders Johan,31.275,7,3,S
+350406,Vestrom Miss. Hulda Amanda Adolfina,7.8542,1,3,S
+248706,Hewlett Mrs. (Mary D Kingcome) ,16.0,1,2,S
+382652,Rice Master. Eugene,29.125,5,3,Q
+244373,Williams Mr. Charles Eugene,13.0,1,2,S
+345763,Vander Planke Mrs. Julius (Emelia Maria Vandemoortele),18.0,1,3,S
+2649,Masselmani Mrs. Fatima,7.225,1,3,C
+239865,Fynney Mr. Joseph J,26.0,2,2,S
+248698,Beesley Mr. Lawrence,13.0,1,2,S
+330923,McGowan Miss. Anna "Annie",8.0292,1,3,Q
+113788,Sloper Mr. William Thompson,35.5,1,1,S
+347077,Asplund Mrs. Carl Oscar (Selma Augusta Emilia Johansson),31.3875,4,3,S
+2631,Emir Mr. Farred Chehab,7.225,1,3,C
+19950,Fortune Mr. Charles Alexander,263.0,4,1,S
+330959,O'Dwyer Miss. Ellen "Nellie",7.8792,1,3,Q
+349216,Todoroff Mr. Lalio,7.8958,1,3,S
+17601,Uruchurtu Don. Manuel E,27.7208,1,1,C
+17569,Spencer Mrs. William Augustus (Marie Eugenie),146.5208,2,1,C
+335677,Glynn Miss. Mary Agatha,7.75,1,3,Q
+24579,Wheadon Mr. Edward H,10.5,1,2,S
+17604,Meyer Mr. Edgar Joseph,82.1708,2,1,C
+113789,Holverson Mr. Alexander Oskar,52.0,2,1,S
+2677,Mamee Mr. Hanna,7.2292,1,3,C
+2152,Cann Mr. Ernest Charles,8.05,1,3,S
+345764,Vander Planke Miss. Augusta Maria,18.0,2,3,S
+2651,Nicola-Yarred Miss. Jamila,11.2417,2,3,C
+7546,Ahlin Mrs. Johan (Johanna Persdotter Larsson),9.475,1,3,S
+11668,Turpin Mrs. William John Robert (Dorothy Ann Wonnacott),21.0,2,2,S
+349253,Kraeff Mr. Theodor,7.8958,1,3,C
+2123,Laroche Miss. Simonne Marie Anne Andree,41.5792,3,2,C
+330958,Devaney Miss. Margaret Delia,7.8792,1,3,Q
+23567,Rogers Mr. William John,8.05,1,3,S
+370371,Lennon Mr. Denis,15.5,1,3,Q
+14311,O'Driscoll Miss. Bridget,7.75,1,3,Q
+2662,Samaan Mr. Youssef,21.6792,1,3,C
+349237,Arnold-Franchi Mrs. Josef (Josefine Franchi),17.8,2,3,S
+3101295,Panula Master. Juha Niilo,39.6875,6,3,S
+39886,Nosworthy Mr. Richard Cater,7.8,1,3,S
+17572,Harper Mrs. Henry Sleeper (Myna Haxtun),76.7292,3,1,C
+2926,Faunthorpe Mrs. Lizzie (Elizabeth Anne Wilkinson),26.0,1,2,S
+113509,Ostby Mr. Engelhart Cornelius,61.9792,1,1,C
+19947,Woolner Mr. Hugh,35.5,1,1,S
+31026,Rugg Miss. Emily,10.5,1,2,S
+2697,Novel Mr. Mansouer,7.2292,1,3,C
+34651,West Miss. Constance Mirium,27.75,3,2,S
+2144,Goodwin Master. William Frederick,46.9,6,3,S
+2669,Sirayanian Mr. Orsen,7.2292,1,3,C
+113572,Icard Miss. Amelie,80.0,2,1,
+36973,Harris Mr. Henry Birkhardt,83.475,2,1,S
+347088,Skoog Master. Harald,27.9,6,3,S
+17605,Stewart Mr. Albert A,27.7208,1,1,C
+2661,Moubarek Master. Gerios,15.2458,2,3,C
+29395,Nye Mrs. (Elizabeth Ramell),10.5,1,2,S
+3464,Crease Mr. Ernest James,8.1583,1,3,S
+3101281,Andersson Miss. Erna Alexandra,7.925,1,3,S
+315151,Kink Mr. Vincenz,8.6625,1,3,S
+33111,Jenkin Mr. Stephen Curnow,10.5,1,2,S
+14879,Hood Mr. Ambrose Jr,73.5,5,2,S
+2680,Chronopoulos Mr. Apostolos,14.4542,1,3,C
+1601,Bing Mr. Lee,56.4958,7,3,S
+348123,Moen Mr. Sigurd Hansen,7.65,1,3,S
+349208,Staneff Mr. Ivan,7.8958,1,3,S
+374746,Moutal Mr. Rahamin Haim,8.05,1,3,S
+248738,Caldwell Master. Alden Gates,29.0,2,2,S
+364516,Dowdell Miss. Elizabeth,12.475,2,3,S
+345767,Waelens Mr. Achille,9.0,1,3,S
+345779,Sheerlinck Mr. Jan Baptist,9.5,1,3,S
+330932,McDermott Miss. Brigdet Delia,7.7875,1,3,Q
+113059,Carrau Mr. Francisco M,47.1,1,1,S
+14885,Ilett Miss. Bertha,10.5,1,2,S
+3101278,Backstrom Mrs. Karl Alfred (Maria Mathilda Gustafsson),15.85,2,3,S
+6608,Ford Mr. William Neal,34.375,4,3,S
+392086,Slocovski Mr. Selman Francis,8.05,1,3,S
+343275,Celotti Mr. Francesco,8.05,1,3,S
+343276,Christmann Mr. Emil,8.05,1,3,S
+347466,Andreasson Mr. Paul Edvin,7.8542,1,3,S
+5734,Chaffee Mr. Herbert Fuller,61.175,1,1,S
+2315,Dean Mr. Bertram Frank,20.575,2,3,S
+364500,Coxon Mr. Daniel,7.25,1,3,S
+374910,Shorney Mr. Charles Joseph,8.05,1,3,S
+17754,Goldschmidt Mr. George B,34.6542,1,1,C
+17759,Greenfield Mr. William Bertram,63.3583,1,1,C
+231919,Doling Mrs. John T (Ada Julia Bone),23.0,2,2,S
+244367,Kantor Mr. Sinai,26.0,2,2,S
+349245,Petranec Miss. Matilda,7.8958,1,3,S
+349215,Petroff Mr. Pastcho ("Pentcho"),7.8958,1,3,S
+35281,White Mr. Richard Frasar,77.2875,2,1,S
+7540,Johansson Mr. Gustaf Joel,8.6542,1,3,S
+3101276,Gustafsson Mr. Anders Vilhelm,7.925,1,3,S
+349207,Mionoff Mr. Stoytcho,7.8958,1,3,S
+343120,Salkjelsvik Miss. Anna Kristine,7.65,1,3,S
+312991,Moss Mr. Albert Johan,7.775,1,3,S
+349249,Rekic Mr. Tido,7.8958,1,3,S
+371110,Moran Miss. Bertha,24.15,3,3,Q
+110465,Porter Mr. Walter Chamberlain,52.0,2,1,S
+2665,Zabour Miss. Hileni,14.4542,2,3,C
+324669,Barton Mr. David John,8.05,1,3,S
+4136,Jussila Miss. Katriina,9.825,1,3,S
+2627,Attalah Miss. Malake,14.4583,2,3,C
+3101294,Pekoniemi Mr. Edvard,7.925,1,3,S
+370369,Connors Mr. Patrick,7.75,1,3,Q
+17558,Baxter Mr. Quigg Edmond,247.5208,2,1,C
+54510,Moore Mr. Leonard Charles,8.05,1,3,S
+27267,Webber Miss. Susan,13.0,1,2,S
+370372,McMahon Mr. Martin,7.75,1,3,Q
+17369,Madsen Mr. Fridtjof Arne,7.1417,1,3,S
+2668,Peter Miss. Anna,22.3583,2,3,C
+347061,Ekstrom Mr. Johan,6.975,1,3,S
+349241,Drazenoic Mr. Jozef,7.8958,1,3,C
+3101307,Coelho Mr. Domingos Ferdeo,7.05,1,3,S
+3337,Robins Mrs. Alexander A (Grace Charity Laury),14.5,1,3,S
+228414,Weisz Mrs. Leopold (Mathilde Francoise Pede),26.0,1,2,S
+29178,Sobey Mr. Samuel James Hayden,13.0,1,2,S
+2133,Richard Mr. Emile,15.0458,1,2,C
+11752,Newsom Miss. Helen Monypeny,26.2833,1,1,S
+7534,Osen Mr. Olaf Elon,9.2167,2,3,S
+17593,Giglio Mr. Victor,79.2,2,1,C
+2678,Boulos Mrs. Joseph (Sultana),15.2458,2,3,C
+347081,Nysten Miss. Anna Sofia,7.75,1,3,S
+3101279,Hakkarainen Mrs. Pekka Pietari (Elin Matilda Dolck),15.85,2,3,S
+365222,Burke Mr. Jeremiah,6.75,1,3,Q
+231945,Andrew Mr. Edgardo Samuel,11.5,1,2,S
+33112,Nicholls Mr. Joseph Charles,36.75,2,2,S
+350043,Andersson Mr. August Edvard ("Wennerstrom"),7.7958,1,3,S
+230080,Navratil Mr. Michel ("Louis M Hoffman"),26.0,3,2,S
+244310,Byles Rev. Thomas Roussel Davids,13.0,1,2,S
+1166,Bateman Rev. Robert James,12.525,1,2,S
+113776,Pears Mrs. Thomas (Edith Wearne),66.6,2,1,S
+11206,Meo Mr. Alfonzo,8.05,1,3,S
+851,van Billiard Mr. Austin Blyler,14.5,1,3,S
+265302,Olsen Mr. Ole Martin,7.3125,1,3,S
+17597,Williams Mr. Charles Duane,61.3792,1,1,C
+35851,Gilnagh Miss. Katherine "Katie",7.7333,1,3,Q
+392090,Corn Mr. Harry,8.05,1,3,S
+315037,Smiljanic Mr. Mile,8.6625,1,3,S
+2343,Sage Master. Thomas Henry,69.55,7,3,S
+371362,Cribb Mr. John Hatfield,16.1,1,3,S
+33595,Watt Mrs. James (Elizabeth "Bessie" Inglis Milne),15.75,1,2,S
+347068,Bengtsson Mr. John Viktor,7.775,1,3,S
+315093,Calic Mr. Jovo,8.6625,1,3,S
+363291,Goldsmith Master. Frank John William "Frankie",20.525,3,3,S
+113505,Chibnall Mrs. (Edith Martha Bowerman),55.0,2,1,S
+17318,Baumann Mr. John D,25.925,1,1,S
+111240,Van der hoef Mr. Wyckoff,33.5,1,1,S
+3101280,Sivola Mr. Antti Wilhelm,7.925,1,3,S
+17764,Smith Mr. James Clinch,30.6958,1,1,C
+350404,Klasen Mr. Klas Albin,7.8542,1,3,S
+4133,Lefebre Master. Henry Forbes,25.4667,4,3,S
+17595,Isham Miss. Ann Elizabeth,28.7125,1,1,C
+250653,Hale Mr. Reginald,13.0,1,2,S
+123456,Leonard Mr. Lionel,0.0,4,3,S
+2131,Pernot Mr. Rene,15.05,1,2,C
+230136,Becker Master. Richard F,39.0,2,2,S
+315153,Kink-Heilmann Miss. Luise Gretchen,22.025,1,3,S
+113767,Rood Mr. Hugh Roscoe,50.0,1,1,S
+370365,O'Brien Mrs. Thomas (Johanna "Hannah" Godfrey),15.5,2,3,Q
+111428,Romaine Mr. Charles Hallace ("Mr C Rolmane"),26.55,1,1,S
+364849,Bourke Mr. John,15.5,2,3,Q
+349247,Turcin Mr. Stjepan,7.8958,1,3,S
+234604,Pinsky Mrs. (Rosa),13.0,1,2,S
+28424,Carbines Mr. William,13.0,1,2,S
+350046,Andersen-Jensen Miss. Carla Christine Nielsine,7.8542,1,3,S
+17610,Brown Mrs. James Joseph (Margaret Tobin),27.7208,1,1,C
+368703,Mernagh Mr. Robert,7.75,1,3,Q
+4579,Olsen Mr. Karl Siegwart Andreas,8.4042,1,3,S
+370370,Madigan Miss. Margaret "Maggie",7.75,1,3,Q
+248747,Yrois Miss. Henriette ("Mrs Harbeck"),13.0,1,2,S
+345770,Vande Walle Mr. Nestor Cyriel,9.5,1,3,S
+3101264,Johanson Mr. Jakob Alfred,6.4958,1,3,S
+2628,Youseff Mr. Gerious,7.225,1,3,C
+3540,Cohen Mr. Gurshon "Gus",8.05,1,3,S
+347054,Strom Miss. Telma Matilda,10.4625,2,3,S
+2699,Albimona Mr. Nassef Cassem,18.7875,2,3,C
+367231,Carr Miss. Helen "Ellen",7.75,1,3,Q
+112277,Blank Mr. Henry,31.0,1,1,C
+3101311,Ali Mr. Ahmed,7.05,1,3,S
+13528,Cameron Miss. Clear Annie,21.0,1,2,S
+21174,Perkin Mr. John Henry,7.25,1,3,S
+250646,Givard Mr. Hans Kristensen,13.0,1,2,S
+367229,Kier Mr. Philip,7.75,1,3,Q
+35273,Newell Miss. Madeleine,113.275,3,1,C
+3101283,Honkanen Miss. Eliina,7.925,1,3,S
+243847,Jacobsohn Mr. Sidney Samuel,27.0,2,2,S
+11813,Bazzani Miss. Albina,76.2917,1,1,C
+14208,Harris Mr. Walter,10.5,1,2,S
+392089,Sunderland Mr. Victor Francis,8.05,1,3,S
+220367,Bracken Mr. James H,13.0,1,2,S
+21440,Green Mr. George Henry,8.05,1,3,S
+349234,Nenkoff Mr. Christo,7.8958,1,3,S
+19943,Hoyt Mr. Frederick Maxfield,90.0,2,1,S
+4348,Berglund Mr. Karl Ivar Sven,9.35,1,3,S
+751,Mellors Mr. William John,10.5,1,2,S
+21173,Lovell Mr. John Hall ("Henry"),7.25,1,3,S
+236171,Fahlstrom Mr. Arne Jonas,13.0,1,2,S
+347067,Larsson Mr. Bengt Edvin,7.775,1,3,S
+237442,Sjostedt Mr. Ernst Adolf,13.5,1,2,S
+29566,Leyson Mr. Robert William Norman,10.5,1,2,S
+6609,Harknett Miss. Alice Phoebe,7.55,1,3,S
+26707,Hold Mr. Stephen,26.0,1,2,S
+31921,Collyer Miss. Marjorie "Lottie",26.25,3,2,S
+28665,Pengelly Mr. Frederick William,10.5,1,2,S
+1585,Hunt Mr. George Henry,12.275,1,2,S
+367230,Murphy Miss. Katherine "Kate",15.5,2,3,Q
+14263,Coleridge Mr. Reginald Charles,10.5,1,2,S
+3101275,Maenpaa Mr. Matti Alexanteri,7.125,1,3,S
+2694,Attalah Mr. Sleiman,7.225,1,3,C
+19928,Minahan Dr. William Edward,90.0,2,1,Q
+347071,Lindahl Miss. Agda Thorilda Viktoria,7.775,1,3,S
+250649,Hamalainen Mrs. William (Anna),14.5,2,2,S
+11751,Beckwith Mr. Richard Leonard,52.5542,2,1,S
+244252,Carter Rev. Ernest Courtenay,26.0,2,2,S
+362316,Reed Mr. James George,7.25,1,3,S
+113514,Stead Mr. William Thomas,26.55,1,1,S
+3336,Lobb Mr. William Arthur,16.1,2,3,S
+370129,Rosblom Mrs. Viktor (Helena Wilhelmina),20.2125,2,3,S
+2650,Touma Mrs. Darwis (Hanne Youssef Razi),15.2458,1,3,C
+17585,Thorne Mrs. Gertrude Maybelle,79.2,1,1,C
+110152,Cherry Miss. Gladys,86.5,3,1,S
+17755,Ward Miss. Anna,512.3292,3,1,C
+230433,Parrish Mrs. (Lutie Davis),26.0,2,2,S
+384461,Smith Mr. Thomas,7.75,1,3,Q
+110413,Taussig Mr. Emil,79.65,3,1,S
+112059,Harrison Mr. William,0.0,1,1,S
+382649,Henry Miss. Delia,7.75,1,3,Q
+17248,Reeves Mr. David,10.5,1,2,S
+347083,Persson Mr. Ernst Ulrik,7.775,1,3,S
+17582,Graham Mrs. William Thompson (Edith Junkins),153.4625,3,1,S
+17760,Bissette Miss. Amelia,135.6333,3,1,S
+113798,Cairns Mr. Alexander,31.0,2,1,S
+250644,Mellinger Mrs. (Elizabeth Anne Maidment),19.5,2,2,S
+17596,Natsch Mr. Charles H,29.7,1,1,C
+370375,Healy Miss. Hanora "Nora",7.75,1,3,Q
+13502,Andrews Miss. Kornelia Theodosia,77.9583,3,1,S
+347073,Lindblom Miss. Augusta Charlotta,7.75,1,3,S
+239853,Parkes Mr. Francis "Frank",0.0,3,2,S
+2673,Abbott Mrs. Stanton (Rosa Hunt),20.25,2,3,S
+336439,Duane Mr. Frank,7.75,1,3,Q
+347464,Olsson Mr. Nils Johan Goransson,7.8542,1,3,S
+345778,de Pelsmaeker Mr. Alfons,9.5,1,3,S
+10482,Dorking Mr. Edward Arthur,8.05,1,3,S
+113056,Smith Mr. Richard William,26.0,1,1,S
+349239,Stankovic Mr. Ivan,8.6625,1,3,C
+345774,de Mulder Mr. Theodore,9.5,1,3,S
+349206,Naidenoff Mr. Penko,7.8958,1,3,S
+237798,Hosono Mr. Masabumi,13.0,1,2,S
+370373,Connolly Miss. Kate,7.75,1,3,Q
+19877,Barber Miss. Ellen "Nellie",78.85,2,1,S
+11967,Bishop Mrs. Dickinson H (Helen Walton),91.0792,2,1,C
+2163,Levy Mr. Rene Jacques,12.875,1,2,C
+349236,Haas Miss. Aloisia,8.85,1,3,S
+349233,Mineff Mr. Ivan,7.8958,1,3,S
+17612,Lewy Mr. Ervin G,27.7208,1,1,C
+2693,Hanna Mr. Mansour,7.2292,1,3,C
+113781,Allison Miss. Helen Loraine,151.55,4,1,S
+19988,Saalfeld Mr. Adolphe,30.5,1,1,S
+9234,Kelly Miss. Anna Katherine "Annie Kate",7.75,1,3,Q
+367226,McCoy Mr. Bernard,23.25,2,3,Q
+226593,Keane Miss. Nora A,12.35,1,2,Q
+2466,Williams Mr. Howard Hugh "Harry",8.05,1,3,S
+17421,Fleming Miss. Margaret,110.8833,4,1,C
+17758,Penasco y Castellana Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo),108.9,2,1,C
+3381,Abelson Mr. Samuel,24.0,2,2,C
+17485,Francatelli Miss. Laura Mabel,56.9292,2,1,C
+11767,Hays Miss. Margaret Bechstein,83.1583,2,1,C
+17608,Ryerson Miss. Emily Borie,262.375,2,1,C
+250651,Lahtinen Mrs. William (Anna Sylfven),26.0,1,2,S
+349243,Hendekovic Mr. Ignjac,7.8958,1,3,S
+13529,Hart Mr. Benjamin,26.25,3,2,S
+347470,Nilsson Miss. Helmina Josefina,7.8542,1,3,S
+29011,Moraweck Dr. Ernest,14.0,1,2,S
+36928,Wick Miss. Mary Natalie,164.8667,2,1,S
+16966,Spedden Mrs. Frederic Oakley (Margaretta Corning Stone),134.5,2,1,C
+21172,Dennis Mr. Samuel,7.25,1,3,S
+349219,Danoff Mr. Yoto,7.8958,1,3,S
+234818,Slayter Miss. Hilda Mary,12.35,1,2,Q
+345364,Nysveen Mr. Johan Hansen,6.2375,1,3,S
+28551,Ball Mrs. (Ada E Hall),13.0,1,2,S
+111361,Hippach Miss. Jean Gertrude,57.9792,2,1,C
+113043,Partner Mr. Austen,28.5,1,1,S
+17611,Frauenthal Mrs. Henry William (Clara Heinsheimer),133.65,2,1,S
+349225,Denkoff Mr. Mitto,7.8958,1,3,S
+7598,Dahl Mr. Karl Edwart,8.05,1,3,S
+113784,Blackwell Mr. Stephen Weart,35.5,1,1,S
+248740,Collander Mr. Erik Gustaf,13.0,1,2,S
+244361,Sedgwick Mr. Charles Frederick Waddington,13.0,1,2,S
+229236,Fox Mr. Stanley Hubert,13.0,1,2,S
+248733,Brown Miss. Amelia "Mildred",13.0,1,2,S
+31418,Smith Miss. Marion Elsie,13.0,1,2,S
+386525,Davison Mrs. Thomas Henry (Mary E Finck),16.1,1,3,S
+37671,Coutts Master. William Loch "William",15.9,2,3,S
+315088,Dimic Mr. Jovan,8.6625,1,3,S
+7267,Odahl Mr. Nils Martin,9.225,1,3,S
+113510,Williams-Lambert Mr. Fletcher Fellows,35.0,1,1,S
+2695,Elias Mr. Tannous,7.2292,1,3,C
+2647,Yousif Mr. Wazli,7.225,1,3,C
+345783,Vanden Steen Mr. Leo Peter,9.5,1,3,S
+237671,Funk Miss. Annie Clemmer,13.0,1,2,S
+330931,McGovern Miss. Mary,7.8792,1,3,Q
+330980,Mockler Miss. Helen Mary "Ellie",7.8792,1,3,Q
+2167,del Carlo Mr. Sebastiano,27.7208,1,2,C
+2691,Barbara Mrs. (Catherine David),14.4542,2,3,C
+3101310,Asim Mr. Adola,7.05,1,3,S
+7076,Adahl Mr. Mauritz Nils Martin,7.25,1,3,S
+110813,Warren Mrs. Frank Manley (Anna Sophia Atkinson),75.25,1,1,C
+2626,Moussa Mrs. (Mantoura Boulos),7.2292,1,3,C
+14313,Jermyn Miss. Annie,7.75,1,3,Q
+17477,Aubart Mme. Leontine Pauline,69.3,2,1,C
+11765,Harder Mr. George Achilles,55.4417,1,1,C
+3101267,Wiklund Mr. Jakob Alfred,6.4958,1,3,S
+323951,Beavan Mr. William Thomas,8.05,1,3,S
+7077,Landergren Miss. Aurora Adelia,7.25,1,3,S
+113503,Widener Mr. Harry Elkins,211.5,1,1,C
+2648,Betros Mr. Tannous,4.0125,1,3,C
+347069,Gustafsson Mr. Karl Gideon,7.775,1,3,S
+17757,Bidois Miss. Rosalie,227.525,4,1,C
+2653,Nakid Miss. Maria ("Mary"),15.7417,2,3,C
+3101293,Tikkanen Mr. Juho,7.925,1,3,S
+349227,Plotcharsky Mr. Vasil,7.8958,1,3,S
+27849,Buss Miss. Kate,13.0,1,2,S
+367655,Sadlier Mr. Matthew,7.7292,1,3,Q
+1748,Lehmann Miss. Bertha,12.0,1,2,C
+113760,Carter Mr. William Ernest,120.0,4,1,S
+350034,Jansson Mr. Carl Olof,7.7958,1,3,S
+3101277,Gustafsson Mr. Johan Birger,7.925,1,3,S
+350052,Johansson Mr. Erik,7.7958,1,3,S
+350407,Olsson Miss. Elina,7.8542,1,3,S
+28403,McKane Mr. Peter David,26.0,2,2,S
+244278,Pain Dr. Alfred,10.5,1,2,S
+240929,Trout Mrs. William H (Jessie L),12.65,1,2,S
+3101289,Niskanen Mr. Juha,7.925,1,3,S
+341826,Adams Mr. John,8.05,1,3,S
+4137,Jussila Miss. Mari Aina,9.825,1,3,S
+315096,Oreskovic Miss. Marija,8.6625,1,3,S
+28664,Gale Mr. Shadrach,21.0,1,2,S
+347064,Widegren Mr. Carl/Charles Peter,7.75,1,3,S
+29106,Richards Master. William Rowe,18.75,3,2,S
+312992,Birkeland Mr. Hans Martin Monsen,7.775,1,3,S
+349222,Sdycoff Mr. Todor,7.8958,1,3,S
+394140,Hart Mr. Henry,6.8583,1,3,Q
+3101269,Sundman Mr. Johan Julian,7.925,1,3,S
+343095,Meek Mrs. Thomas (Annie Louise Rowley),8.05,1,3,S
+28220,Drew Mrs. James Vivian (Lulu Thorne Christian),32.5,1,2,S
+250652,Silven Miss. Lyyli Karoliina,13.0,1,2,S
+28228,Matthews Mr. William John,13.0,1,2,S
+345773,Van Impe Miss. Catharina,24.15,3,3,S
+349254,Gheorgheff Mr. Stanio,7.8958,1,3,C
+13032,Charters Mr. David,7.7333,1,3,Q
+315082,Zimmerman Mr. Leo,7.875,1,3,S
+347080,Danbom Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren),14.4,2,3,S
+34244,Wiseman Mr. Phillippe,7.25,1,3,S
+2003,Clarke Mrs. Charles V (Ada Maria Winfield),26.0,1,2,S
+250655,Phillips Miss. Kate Florence ("Mrs Kate Louise Phillips Marshall"),26.0,2,2,S
+364851,Flynn Mr. James,7.75,1,3,Q
+392078,Pickard Mr. Berk (Berk Trembisky),8.05,1,3,S
+110564,Bjornstrom-Steffansson Mr. Mauritz Hakan,26.55,1,1,S
+376564,Thorneycroft Mrs. Percival (Florence Kate White),16.1,2,3,S
+3085,Louch Mrs. Charles Alexander (Alice Adelaide Slow),26.0,1,2,S
+3101274,Kallio Mr. Nikolai Erland,7.125,1,3,S
+13507,Silvey Mr. William Baird,55.9,2,1,S
+18723,Kvillner Mr. Johan Henrik Johannesson,10.5,1,2,S
+345769,Hampe Mr. Leon,9.5,1,3,S
+347076,Petterson Mr. Johan Emil,7.775,1,3,S
+230434,Reynaldo Ms. Encarnacion,13.0,1,2,S
+65306,Johannesen-Bratthammer Mr. Bernt,8.1125,1,3,S
+33638,Dodge Master. Washington,81.8583,1,1,S
+113794,Seward Mr. Frederic Kimber,26.55,1,1,S
+2666,Baclini Miss. Marie Catherine,19.2583,4,3,C
+113786,Peuchen Major. Arthur Godfrey,30.5,1,1,S
+65303,Hagland Mr. Ingvald Olai Olsen,19.9667,1,3,S
+113051,Foreman Mr. Benjamin Laventall,27.75,1,1,C
+17453,Goldenberg Mr. Samuel L,89.1042,2,1,C
+2817,Peduzzi Mr. Joseph,8.05,1,3,S
+349240,Jalsevac Mr. Ivan,7.8958,1,3,C
+13509,Millet Mr. Francis Davis,26.55,1,1,S
+17464,Kenyon Mrs. Frederick R (Marion),51.8625,1,1,S
+13531,Toomey Miss. Ellen,10.5,1,2,S
+371060,O'Connor Mr. Maurice,7.75,1,3,Q
+19952,Anderson Mr. Harry,26.55,1,1,S
+364506,Morley Mr. William,8.05,1,3,S
+111320,Gee Mr. Arthur H,38.5,1,1,S
+234360,Milling Mr. Jacob Christian,13.0,1,2,S
+2816,Maisner Mr. Simon,8.05,1,3,S
+3101306,Goncalves Mr. Manuel Estanslas,7.05,1,3,S
+113792,Smart Mr. John Montgomery,26.55,1,1,S
+36209,Scanlan Mr. James,7.725,1,3,Q
+323592,Keefe Mr. Arthur,7.25,1,3,S
+315089,Cacic Mr. Luka,8.6625,1,3,S
+541,Jerwan Mrs. Amin S (Marie Marthe Thuillard),13.7917,1,2,C
+7553,Strandberg Miss. Ida Sofia,9.8375,1,3,S
+31027,Renouf Mr. Peter Henry,21.0,2,2,S
+3460,Braund Mr. Lewis Richard,7.0458,1,3,S
+350060,Karlsson Mr. Nils August,7.5208,1,3,S
+3101298,Hirvonen Miss. Hildur E,12.2875,1,3,S
+239854,Frost Mr. Anthony Wood "Archie",0.0,1,2,S
+3594,Rouse Mr. Richard Henry,8.05,1,3,S
+4134,Turkula Mrs. (Hedwig),9.5875,1,3,S
+11771,Kent Mr. Edward Austin,29.7,1,1,C
+18509,Somerton Mr. Francis William,8.05,1,3,S
+65304,Hagland Mr. Konrad Mathias Reiersen,19.9667,1,3,S
+3101317,Windelov Mr. Einar,7.25,1,3,S
+113787,Molson Mr. Harry Markland,30.5,1,1,S
+17609,Artagaveytia Mr. Ramon,49.5042,1,1,C
+45380,Stanley Mr. Edward Roland,8.05,1,3,S
+36947,Eustis Miss. Elizabeth Mussey,78.2667,2,1,C
+6212,Shellard Mr. Frederick William,15.1,1,3,S
+350035,Svensson Mr. Olof,7.7958,1,3,S
+315086,Calic Mr. Petar,8.6625,1,3,S
+364846,Canavan Miss. Mary,7.75,1,3,Q
+330909,O'Sullivan Miss. Bridget Mary,7.6292,1,3,Q
+4135,Laitinen Miss. Kristina Sofia,9.5875,1,3,S
+26360,Quick Mrs. Frederick Charles (Jane Richards),26.0,2,2,S
+111427,Bradley Mr. George ("George Arthur Brayton"),26.55,1,1,S
+4001,Olsen Mr. Henry Margido,22.525,1,3,S
+382651,Daly Mr. Eugene Patrick,7.75,1,3,Q
+3101316,Webber Mr. James,8.05,1,3,S
+17473,McGough Mr. James Robert,26.2875,1,1,S
+17603,Rothschild Mrs. Martin (Elizabeth L. Barrett),59.4,1,1,C
+349209,Coleff Mr. Satio,7.4958,1,3,S
+36967,Walker Mr. William Anderson,34.0208,1,1,S
+34260,Lemore Mrs. (Amelia Milley),10.5,1,2,S
+226875,Angle Mrs. William A (Florence "Mary" Agnes Hughes),26.0,1,2,S
+349242,Pavlovic Mr. Stefo,7.8958,1,3,S
+12749,Perreault Miss. Anne,93.5,2,1,S
+349252,Vovk Mr. Janko,7.8958,1,3,S
+2624,Lahoud Mr. Sarkis,7.225,1,3,C
+2700,Kassem Mr. Fared,7.2292,1,3,C
+367232,Farrell Mr. James,7.75,1,3,Q
+14258,Ridsdale Miss. Lucy,10.5,1,2,S
+17483,Farthing Mr. John,221.7792,1,1,S
+3101296,Salonen Mr. Johan Werner,7.925,1,3,S
+29104,Hocking Mr. Richard George,11.5,1,2,S
+2641,Toufik Mr. Nakli,7.2292,1,3,C
+2690,Elias Mr. Joseph Jr,7.2292,1,3,C
+315084,Cacic Miss. Marija,8.6625,1,3,S
+113050,Butt Major. Archibald Willingham,26.55,1,1,S
+17761,LeRoy Miss. Bertha,106.425,2,1,C
+364498,Risien Mr. Samuel Beard,14.5,1,3,S
+13568,Frolicher Miss. Hedwig Margaritha,49.5,1,1,C
+5735,Crosby Miss. Harriet R,71.0,2,1,S
+2908,Beane Mr. Edward,26.0,2,2,S
+693,Nicholson Mr. Arthur Ernest,26.0,1,1,S
+2146,Padro y Manent Mr. Julian,13.8625,1,2,C
+244358,Sharp Mr. Percival James R,26.0,1,2,S
+330979,O'Brien Mr. Timothy,7.8292,1,3,Q
+2620,Leeni Mr. Fahim ("Philip Zenni"),7.225,1,3,C
+347085,Ohman Miss. Velin,7.775,1,3,S
+113807,Wright Mr. George,26.55,1,1,S
+11755,Duff Gordon Lady. (Lucille Christiana Sutherland) ("Mrs Morgan"),39.6,1,1,C
+345572,de Messemaeker Mrs. Guillaume Joseph (Emma),17.4,1,3,S
+372622,Morrow Mr. Thomas Rowan,7.75,1,3,Q
+349251,Sivic Mr. Husein,7.8958,1,3,S
+218629,Norman Mr. Robert Douglas,13.5,1,2,S
+392082,Simmons Mr. John,8.05,1,3,S
+392087,Meanwell Miss. (Marion Ogden),8.05,1,3,S
+48871,Davies Mr. Alfred J,24.15,2,3,S
+349205,Stoytcheff Mr. Ilia,7.8958,1,3,S
+2686,Doharr Mr. Tannous,7.2292,1,3,C
+350417,Jonsson Mr. Carl,7.8542,1,3,S
+752,Harris Mr. George,10.5,1,2,S
+11769,Appleton Mrs. Edward Dale (Charlotte Lamson),51.4792,1,1,S
+17474,Flynn Mr. John Irwin ("Irving"),26.3875,1,1,S
+14312,Kelly Miss. Mary,7.75,1,3,Q
+20589,Rush Mr. Alfred George John,8.05,1,3,S
+358585,Patchett Mr. George,14.5,2,3,S
+243880,Garside Miss. Ethel,13.0,1,2,S
+2689,Caram Mrs. Joseph (Maria Elias),14.4583,1,3,C
+3101286,Jussila Mr. Eiriik,7.925,1,3,S
+237789,Christy Miss. Julie Rachel,30.0,1,2,S
+13049,Ross Mr. John Hugo,40.125,1,1,C
+3411,Paulner Mr. Uscher,8.7125,1,3,C
+237565,Jarvis Mr. John Denzil,15.0,1,2,S
+13567,Frolicher-Stehli Mr. Maxmillian,79.2,1,1,C
+14973,Gilinski Mr. Eliezer,8.05,1,3,S
+3235,Murdlin Mr. Joseph,8.05,1,3,S
+3101273,Rintamaki Mr. Matti,7.125,1,3,S
+3902,Elsbury Mr. William James,7.25,1,3,S
+364848,Bourke Miss. Mary,7.75,1,3,Q
+29037,Chapman Mr. John Henry,26.0,1,2,S
+248727,Leitch Miss. Jessie Wills,33.0,3,2,S
+2664,Boulos Mr. Hanna,7.225,1,3,C
+349214,Slabenoff Mr. Petco,7.8958,1,3,S
+113796,Harrington Mr. Charles H,42.4,1,1,S
+364511,Torber Mr. Ernst William,8.05,1,3,S
+111426,Homer Mr. Harry ("Mr E Haven"),26.55,1,1,C
+349910,Lindell Mr. Edvard Bengtsson,15.55,1,3,S
+349246,Karaic Mr. Milan,7.8958,1,3,S
+113804,Daniel Mr. Robert Williams,30.5,1,1,S
+3101305,Jardin Mr. Jose Neto,7.05,1,3,S
+370377,Horgan Mr. John,7.75,1,3,Q
+364512,Brocklebank Mr. William Alfred,8.05,1,3,S
+220845,Herman Miss. Alice,65.0,2,2,S
+31028,Gavey Mr. Lawrence,10.5,1,2,S
+2659,Yasbeck Mr. Antoni,14.4542,2,3,C
+11753,Kimball Mr. Edwin Nelson Jr,52.5542,1,1,S
+350029,Hansen Mr. Henry Damsgaard,7.8542,1,3,S
+54636,Bowen Mr. David John "Dai",16.1,2,3,S
+36963,Sutton Mr. Frederick,32.3208,1,1,S
+219533,Kirkland Rev. Charles Leonard,12.35,1,2,Q
+349224,Bostandyeff Mr. Guentcho,7.8958,1,3,S
+334912,O'Connell Mr. Patrick D,7.7333,1,3,Q
+27042,Barkworth Mr. Algernon Henry Wilson,30.0,1,1,S
+347743,Lundahl Mr. Johan Svensson,7.0542,1,3,S
+13214,Stahelin-Maeglin Dr. Max,30.5,1,1,C
+112052,Parr Mr. William Henry Marsh,0.0,1,1,S
+237668,Davis Miss. Mary,13.0,1,2,S
+3101292,Leinonen Mr. Antti Gustaf,7.925,1,3,S
+350050,Jensen Mr. Hans Peder,7.8542,1,3,S
+349231,Cor Mr. Liudevit,7.8958,1,3,S
+13213,Simonius-Blumer Col. Oberst Alfons,35.5,1,1,C
+751,Willey Mr. Edward,7.55,1,3,S
+2314,Stanley Miss. Amy Zillah Elsie,7.55,1,3,S
+349221,Mitkoff Mr. Mito,7.8958,1,3,S
+8475,Kalvik Mr. Johannes Halvorsen,8.4333,1,3,S
+330919,O'Leary Miss. Hanora "Norah",7.8292,1,3,Q
+365226,Hegarty Miss. Hanora "Nora",6.75,1,3,Q
+349223,Radeff Mr. Alexander,7.8958,1,3,S
+29751,Eitemiller Mr. George Floyd,13.0,1,2,S
+2623,Badt Mr. Mohamed,7.225,1,3,C
+5727,Colley Mr. Edward Pomeroy,25.5875,1,1,S
+349210,Coleff Mr. Peju,7.4958,1,3,S
+3101285,Lindqvist Mr. Eino William,7.925,1,3,S
+234686,Butler Mr. Reginald Fenton,13.0,1,2,S
+312993,Rommetvedt Mr. Knud Paust,7.775,1,3,S
+3536,Cook Mr. Jacob,8.05,1,3,S
+19996,Taylor Mrs. Elmer Zebley (Juliet Cummins Wright),52.0,2,1,S
+29750,Brown Mrs. Thomas William Solomon (Elizabeth Catherine Ford),39.0,2,2,S
+12750,Davidson Mr. Thornton,52.0,1,1,S
+24580,Mitchell Mr. Henry Michael,10.5,1,2,S
+244270,Wilhelms Mr. Charles,13.0,1,2,S
+239856,Watson Mr. Ennis Hastings,0.0,1,2,S
+349912,Edvardsson Mr. Gustaf Hjalmar,7.775,1,3,S
+342826,Sawyer Mr. Frederick Charles,8.05,1,3,S
+4138,Turja Miss. Anna Sofia,9.8417,1,3,S
+330935,Peters Miss. Katie,8.1375,1,3,Q
+6563,Olsvigen Mr. Thor Anderson,9.225,1,3,S
+349228,Dakic Mr. Branko,10.1708,1,3,S
+350036,Fischer Mr. Eberhard Thelander,7.7958,1,3,S
+24160,Madill Miss. Georgette Alexandra,211.3375,3,1,S
+17474,Dick Mr. Albert Adrian,57.0,2,1,S
+349256,Karun Miss. Manca,13.4167,1,3,C
+2672,Saad Mr. Khalil,7.225,1,3,C
+113800,Weir Col. John,26.55,1,1,S
+248731,Chapman Mr. Charles Henry,13.5,1,2,S
+363592,Kelly Mr. James,8.05,1,3,S
+35852,Mullens Miss. Katherine "Katie",7.7333,1,3,Q
+348121,Humblen Mr. Adolf Mathias Nicolai Olsen,7.65,1,3,S
+17475,Silverthorne Mr. Spencer Victor,26.2875,1,1,S
+36864,Gallagher Mr. Martin,7.7417,1,3,Q
+350025,Hansen Mr. Henrik Juul,7.8542,1,3,S
+223596,Kelly Mrs. Florence "Fannie",13.5,1,2,S
+17476,Calderhead Mr. Edward Pennington,26.2875,1,1,S
+17482,Mayne Mlle. Berthe Antonine ("Mrs de Villiers"),49.5042,1,1,C
+113028,Klaber Mr. Herman,26.55,1,1,S
+7545,Larsson Mr. August Viktor,9.4833,1,3,S
+250647,Greenberg Mr. Samuel,13.0,2,2,S
+348124,Soholt Mr. Peter Andreas Lauritz Andersen,7.65,1,3,S
+34218,Troutt Miss. Edwina Celia "Winnie",10.5,1,2,S
+36568,McEvoy Mr. Michael,15.5,1,3,Q
+347062,Johnson Mr. Malkolm Joackim,7.775,1,3,S
+350048,Jensen Mr. Svend Lauritz,7.0542,1,3,S
+12233,Gillespie Mr. William Henry,13.0,1,2,S
+250643,Hodges Mr. Henry Price,13.0,1,2,S
+113806,Chambers Mr. Norman Campbell,53.1,2,1,S
+315094,Oreskovic Mr. Luka,8.6625,1,3,S
+36866,Mannion Miss. Margareth,7.7375,1,3,Q
+236853,Bryhl Mr. Kurt Arnold Gottfrid,26.0,1,2,S
+3101271,Ilmakangas Miss. Pieta Sofia,7.925,1,3,S
+239855,Knight Mr. Robert J,0.0,1,2,S
+28425,Berriman Mr. William John,13.0,1,2,S
+233639,Troupiansky Mr. Moses Aaron,13.0,1,2,S
+349201,Ivanoff Mr. Kanio,7.8958,1,3,S
+349218,Nankoff Mr. Minko,7.8958,1,3,S
+16988,Hawksford Mr. Walter James,30.0,1,1,S
+376566,McNamee Mr. Neal,16.1,1,3,S
+3101288,Stranden Mr. Juho,7.925,1,3,S
+250648,Sinkkonen Miss. Anna,13.0,1,2,S
+113773,Marvin Mr. Daniel Warner,53.1,1,1,S
+335097,Connaghton Mr. Michael,7.75,1,3,Q
+29103,Wells Miss. Joan,23.0,1,2,S
+392096,Moor Master. Meier,12.475,2,3,S
+345780,Vande Velde Mr. Johannes Joseph,9.5,1,3,S
+349204,Jonkoff Mr. Lalio,7.8958,1,3,S
+350042,Carlsson Mr. August Sigfrid,7.7958,1,3,S
+29108,Bailey Mr. Percy Andrew,11.5,1,2,S
+363294,Theobald Mr. Thomas Leonard,8.05,1,3,S
+3101272,Nirva Mr. Iisakki Antino Aijo,7.125,1,3,S
+2663,Barah Mr. Hanna Assi,7.2292,1,3,C
+347074,Eklund Mr. Hans Linus,7.775,1,3,S
+112379,Brewe Dr. Arthur Jackson,39.6,1,1,C
+364850,Mangan Miss. Mary,7.75,1,3,Q
+8471,Gronnestad Mr. Daniel Danielsen,8.3625,1,3,S
+345781,Lievens Mr. Rene Aime,9.5,1,3,S
+350047,Jensen Mr. Niels Peder,7.8542,1,3,S
+3,Mack Mrs. (Mary),10.5,2,2,S
+2674,Elias Mr. Dibo,7.225,1,3,C
+29105,Hocking Mrs. Elizabeth (Eliza Needs),23.0,1,2,S
+347078,Myhrman Mr. Pehr Fabian Oliver Malkolm,7.75,1,3,S
+383121,Tobin Mr. Roger,7.75,1,3,Q
+36865,Kilgannon Mr. Thomas J,7.7375,1,3,Q
+2687,Ayoub Miss. Banoura,7.2292,1,3,C
+113501,Long Mr. Milton Clyde,30.0,1,1,S
+6607,Johnston Mr. Andrew G,23.45,2,3,S
+3101312,Ali Mr. William,7.05,1,3,S
+374887,Harmer Mr. Abraham (David Lishin),7.25,1,3,S
+3101265,Sjoblom Miss. Anna Sofia,7.4958,1,3,S
+12460,Keane Mr. Andrew "Andy",7.75,1,3,Q
+17600,Hoyt Mr. William Fisher,30.6958,1,1,C
+349203,Dantcheff Mr. Ristiu,7.8958,1,3,S
+28213,Otter Mr. Richard,13.0,1,2,S
+17465,Leader Dr. Alice (Farnham),25.9292,1,1,S
+349244,Osman Mrs. Mara,8.6833,1,3,S
+2685,Ibrahim Shawah Mr. Yousseff,7.2292,1,3,C
+2625,Thomas Master. Assad Alexander,8.5167,1,3,C
+347089,Hedman Mr. Oskar Arvid,6.975,1,3,S
+347063,Johansson Mr. Karl Johan,7.775,1,3,S
+112050,Andrews Mr. Thomas Jr,0.0,1,1,S
+347087,Pettersson Miss. Ellen Natalia,7.775,1,3,S
+248723,Meyer Mr. August,13.0,1,2,S
+3474,Alexander Mr. William,7.8875,1,3,S
+28206,Slemen Mr. Richard James,10.5,1,2,S
+364499,Tomlin Mr. Ernest Portage,8.05,1,3,S
+112058,Fry Mr. Richard,0.0,1,1,S
+3101290,Heininen Miss. Wendla Maria,7.925,1,3,S
+2079,Mallet Mr. Albert,37.0042,2,2,C
+7075,Holm Mr. John Fredrik Alexander,6.45,1,3,S
+315098,Lulic Mr. Nikola,8.6625,1,3,S
+19972,Reuchlin Jonkheer. John George,0.0,1,1,S
+368323,Flynn Mr. John,6.95,1,3,Q
+367228,McCormack Mr. Thomas Joseph,7.75,1,3,Q
+2671,Saad Mr. Amin,7.2292,1,3,C
+347468,Augustsson Mr. Albert,7.8542,1,3,S
+2223,Allum Mr. Owen George,8.3,1,3,S
+17756,Compton Miss. Sara Rebecca,83.1583,1,1,C
+315097,Pasic Mr. Jakob,8.6625,1,3,S
+392092,Sirota Mr. Maurice,8.05,1,3,S
+11774,Marechal Mr. Pierre,29.7,1,1,C
+3101287,Alhomaki Mr. Ilmari Rudolf,7.925,1,3,S
+2683,Lemberopolous Mr. Peter L,6.4375,1,3,C
+315090,Culumovic Mr. Jeso,8.6625,1,3,S
+5547,Abbing Mr. Anthony,7.55,1,3,S
+349213,Markoff Mr. Marin,7.8958,1,3,C
+347060,Svensson Mr. Johan,7.775,1,3,S
+17592,Lines Miss. Mary Conover,39.4,1,1,S
+392091,Aks Mrs. Sam (Leah Rosen),9.35,1,3,S
+113055,Daly Mr. Peter Denis ,26.55,1,1,S
+2629,Razi Mr. Raihed,7.2292,1,3,C
+350026,Hansen Mr. Claus Peter,14.1083,1,3,S
+28134,Giles Mr. Frederick Edward,11.5,1,2,S
+17466,Swift Mrs. Frederick Joel (Margaret Welles Barron),25.9292,1,1,S
+233866,Gill Mr. John William,13.0,1,2,S
+236852,Bystrom Mrs. (Karolina),13.0,1,2,S
+2149,Duran y More Miss. Asuncion,13.8583,1,2,C
+17590,Roebling Mr. Washington Augustus II,50.4958,1,1,S
+345777,van Melkebeke Mr. Philemon,9.5,1,3,S
+349248,Balkic Mr. Cerin,7.8958,1,3,S
+695,Carlsson Mr. Frans Olof,5.0,1,1,S
+345765,Vander Cruyssen Mr. Victor,9.0,1,3,S
+2667,Najib Miss. Adele Kiamie "Jane",7.225,1,3,C
+349212,Petroff Mr. Nedelio,7.8958,1,3,S
+349217,Laleff Mr. Kristo,7.8958,1,3,S
+349257,Markun Mr. Johann,7.8958,1,3,S
+7552,Dahlberg Miss. Gerda Ulrika,10.5167,1,3,S
+34068,Banfield Mr. Frederick James,10.5,1,2,S
+392076,Sutehall Mr. Henry Jr,7.05,1,3,S
+211536,Montvila Rev. Juozas,13.0,1,2,S
+112053,Graham Miss. Margaret Edith,30.0,1,1,S
+111369,Behr Mr. Karl Howell,30.0,1,1,C
+370376,Dooley Mr. Patrick,7.75,1,3,Q
