@@ -26,7 +26,7 @@ CREATE TABLE dbo.T
     TicketId INT NOT NULL, 
     Passenger VARCHAR(85) NOT NULL,
     Fare FLOAT,
-    Num INT, 
+    Persons INT, 
     Class CHAR,
     Embarked CHAR
 );
