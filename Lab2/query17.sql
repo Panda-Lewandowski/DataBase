@@ -1,0 +1,1 @@
+-- #17 Instruction INSERT with many rows
