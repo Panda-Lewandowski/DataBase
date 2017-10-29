@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="SqlServer" id="Project_1801c81" template="Default" database="SqlServer" >
+	<schema name="dbo" catalogname="TitanicDB" schemaname="dbo" >
+		<table name="P" >
+			<column name="Passenger" type="varchar" length="85" decimal="0" jt="12" mandatory="y" />
+			<column name="Sex" type="varchar" length="6" decimal="0" jt="12" />
+			<column name="Age" type="int" length="10" decimal="0" jt="4" />
+			<index name="PK_P" unique="PRIMARY_KEY" >
+				<column name="Passenger" />
+			</index>
+			<constraint name="Sex_chk" >
+				<string>[Sex]=&#039;male&#039; OR [Sex]=&#039;Female&#039;</string>
+			</constraint>
+		</table>
+		<table name="PTS" >
+			<column name="PassengerId" type="int" length="10" decimal="0" jt="4" mandatory="y" />
+			<column name="Passenger" type="varchar" length="85" decimal="0" jt="12" mandatory="y" />
+			<column name="TicketId" type="int" length="10" decimal="0" jt="4" mandatory="y" />
+			<column name="Survival" type="bit" length="1" decimal="0" jt="-7" />
+			<index name="PK_PTS" unique="PRIMARY_KEY" >
+				<column name="PassengerId" />
+				<column name="Passenger" />
+				<column name="TicketId" />
+			</index>
+			<fk name="FK_PTS_P" to_schema="dbo" to_table="P" delete_action="restrict" update_action="restrict" >
+				<fk_column name="Passenger" pk="Passenger" />
+			</fk>
+			<fk name="FK_PTS_T" to_schema="dbo" to_table="T" delete_action="restrict" update_action="restrict" >
+				<fk_column name="TicketId" pk="TicketId" />
+			</fk>
+			<fk name="FK_PTS_S" to_schema="dbo" to_table="S" delete_action="restrict" update_action="restrict" >
+				<fk_column name="PassengerId" pk="PassengerId" />
+			</fk>
+		</table>
+		<table name="S" >
+			<column name="PassengerId" type="int" length="10" decimal="0" jt="4" mandatory="y" />
+			<column name="Parch" type="int" length="10" decimal="0" jt="4" />
+			<column name="SibSp" type="int" length="10" decimal="0" jt="4" />
+			<index name="PK_S" unique="PRIMARY_KEY" >
+				<column name="PassengerId" />
+			</index>
+			<constraint name="PassengerId_chk" >
+				<string>[PassengerId]&gt;=(1) AND [PassengerId]&lt;=(1000)</string>
+			</constraint>
+		</table>
+		<table name="T" >
+			<column name="TicketId" type="int" length="10" decimal="0" jt="4" mandatory="y" />
+			<column name="Passenger" type="varchar" length="85" decimal="0" jt="12" mandatory="y" />
+			<column name="Fare" type="float" length="53" decimal="0" jt="8" />
+			<column name="Persons" type="int" length="10" decimal="0" jt="4" />
+			<column name="Class" type="char" length="1" decimal="0" jt="1" />
+			<column name="Embarked" type="char" length="1" decimal="0" jt="1" />
+			<index name="PK_T" unique="PRIMARY_KEY" >
+				<column name="TicketId" />
+			</index>
+			<index name="UK_T" unique="UNIQUE" >
+				<column name="Passenger" />
+			</index>
+			<constraint name="Ticket_chk" >
+				<string>[TicketId]&gt;=(0)</string>
+			</constraint>
+			<constraint name="Fare_chk" >
+				<string>[Fare]&gt;=(0)</string>
+			</constraint>
+			<constraint name="Num_chk" >
+				<string>[Persons]&gt;=(1) AND [Persons]&lt;=(10)</string>
+			</constraint>
+			<constraint name="Class_chk" >
+				<string>[Class]&gt;=(1) AND [Class]&lt;=(3)</string>
+			</constraint>
+			<constraint name="Embarked_chk" >
+				<string>[Embarked]=&#039;S&#039; OR [Embarked]=&#039;C&#039; OR [Embarked]=&#039;Q&#039;</string>
+			</constraint>
+		</table>
+	</schema>
+	<connector name="SqlServer" database="SqlServer" driver_class="com.microsoft.sqlserver.jdbc.SQLServerDriver" driver_jar="sqljdbc42.jar" driver_desc="Native Driver - Database Authentication" host="192.168.1.34" port="1433" instance="TitanicDB" user="SA" passwd="QWRtaW4wMDc=" />
+	<layout name="Default Layout" id="Layout_147df6f" show_relation="columns" >
+		<entity schema="dbo" name="PTS" color="bfd4f5" x="225" y="60" />
+		<entity schema="dbo" name="S" color="bfd4f5" x="405" y="45" />
+		<entity schema="dbo" name="T" color="bfd4f5" x="210" y="255" />
+		<entity schema="dbo" name="P" color="bfd4f5" x="45" y="60" />
+	</layout>
+	<layout name="Sample Layout with Tools" id="Layout_4336e50" show_column_type="y" show_relation="columns" >
+		<entity schema="dbo" name="P" color="bfd4f5" x="255" y="150" />
+		<entity schema="dbo" name="PTS" color="bfd4f5" x="465" y="150" />
+		<entity schema="dbo" name="S" color="bfd4f5" x="255" y="300" />
+		<entity schema="dbo" name="T" color="bfd4f5" x="45" y="300" />
+		<callout x="255" y="75" pointer="NO" >
+			<comment><![CDATA[Double-click any table, column or foreign key to edit, right-click to start one of the tools below.
+Use the Relational Data Browse for simultaneously exploring data from multiple tables.
+All tools will be saved to project file and can be reopen.]]></comment>
+		</callout>
+		<group name="P" color="ecf0f7" >
+			<entity schema="dbo" name="P" />
+			<entity schema="dbo" name="PTS" />
+			<entity schema="dbo" name="S" />
+			<entity schema="dbo" name="T" />
+		</group>
+		<script name="Sample SQL Editor" id="Editor_39d60a8" language="SQL" >
+			<string><![CDATA[SELECT * 
+FROM
+	dbo.P P;]]></string>
+		</script>
+		<browser id="Browse_2cb03b3" name="Sample Relational Data Browse" confirm_updates="y" >
+			<browse_table schema="dbo" entity="P" x="20" y="20" width="400" height="300" />
+		</browser>
+		<query id="Query_9fc12a" name="Sample Query Builder" >
+			<query_table schema="dbo" name="P" alias="p" x="45" y="45" >
+				<column name="Passenger" />
+				<column name="Sex" />
+				<column name="Age" />
+			</query_table>
+		</query>
+	</layout>
+</project>

@@ -1,2 +1,2 @@
-DROP TABLE TitanicDB.dbo.P;
+DROP TABLE TitanicDB.dbo;
 GO

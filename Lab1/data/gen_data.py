@@ -84,7 +84,7 @@ def generate():
         string_to_write = "{0},{1},{2},{3}\n".format(raw_data.iloc[i]['PassengerId'],
                                                      raw_data.iloc[i]['Name'],
                                                      format_ticket(raw_data.iloc[i]['Ticket']),
-                                                     raw_data.iloc[i]['Survived'])
+                                                     raw_data.iloc[i]['Survived'])1 
         string_to_write = string_to_write.replace(", ", " ")
         string_to_write = string_to_write.replace("Null", "123456")  # DEFAULT TICKET
         pts.write(string_to_write)

@@ -5,3 +5,5 @@
 --SELECT * FROM TitanicDB.dbo.S
 
 --SELECT * FROM TitanicDB.dbo.PTS
+
+--SELECT * FROM sys.schemas
