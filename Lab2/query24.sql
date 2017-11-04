@@ -1,3 +1,4 @@
+-- #24 Instruction PIVOT
 SELECT Persons AS 'Persons/Class', [1], [2], [3]
 FROM
 (
