@@ -1,0 +1,3 @@
+-- #22 Instruction SELECT using recursion сommon table expression
+-- Finding survival man who is more than 18 years old and survived
+-- Для составления запроса с использованием рекурсивного обобщенного табличного выражения требуется модифицировать одну из таблиц таким образом, чтобы в этой таблице был определен внешний ключ, ссылающийся на саму таблицу.

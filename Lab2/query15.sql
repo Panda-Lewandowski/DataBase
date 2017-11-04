@@ -1,5 +1,5 @@
 -- #15 Instruction SELECT using HAVING
--- Women wose age is more than another's age
+-- Women whose age is more than avarage one
 SELECT Passenger
 FROM P
 WHERE Sex = 'female' AND Age IS NOT NULL

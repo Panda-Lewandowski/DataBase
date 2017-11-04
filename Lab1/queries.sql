@@ -1,4 +1,4 @@
- SELECT * FROM TitanicDB.dbo.P
+SELECT * FROM TitanicDB.dbo.P
 
 SELECT * FROM TitanicDB.dbo.T
 
