@@ -1,0 +1,9 @@
+/Users/pandas/Documents/University/DataBase/DataBase/Lab4/HandWrittenUDF/obj/Debug/netcoreapp2.0/HandWrittenUDF.csprojResolveAssemblyReference.cache
+/Users/pandas/Documents/University/DataBase/DataBase/Lab4/HandWrittenUDF/obj/Debug/netcoreapp2.0/HandWrittenUDF.csproj.CoreCompileInputs.cache
+/Users/pandas/Documents/University/DataBase/DataBase/Lab4/HandWrittenUDF/obj/Debug/netcoreapp2.0/HandWrittenUDF.AssemblyInfoInputs.cache
+/Users/pandas/Documents/University/DataBase/DataBase/Lab4/HandWrittenUDF/obj/Debug/netcoreapp2.0/HandWrittenUDF.AssemblyInfo.cs
+/Users/pandas/Documents/University/DataBase/DataBase/Lab4/HandWrittenUDF/bin/Debug/netcoreapp2.0/HandWrittenUDF.deps.json
+/Users/pandas/Documents/University/DataBase/DataBase/Lab4/HandWrittenUDF/bin/Debug/netcoreapp2.0/HandWrittenUDF.dll
+/Users/pandas/Documents/University/DataBase/DataBase/Lab4/HandWrittenUDF/bin/Debug/netcoreapp2.0/HandWrittenUDF.pdb
+/Users/pandas/Documents/University/DataBase/DataBase/Lab4/HandWrittenUDF/obj/Debug/netcoreapp2.0/HandWrittenUDF.dll
+/Users/pandas/Documents/University/DataBase/DataBase/Lab4/HandWrittenUDF/obj/Debug/netcoreapp2.0/HandWrittenUDF.pdb

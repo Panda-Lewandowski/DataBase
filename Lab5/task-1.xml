@@ -1,0 +1,62 @@
+<PTS>
+  <PassengerId>246</PassengerId>
+  <Survival>0</Survival>
+  <P>
+    <Passenger>Minahan Dr. William Edward</Passenger>
+    <Sex>male</Sex>
+    <Age>44</Age>
+  </P>
+</PTS>
+<PTS>
+  <PassengerId>318</PassengerId>
+  <Survival>0</Survival>
+  <P>
+    <Passenger>Moraweck Dr. Ernest</Passenger>
+    <Sex>male</Sex>
+    <Age>54</Age>
+  </P>
+</PTS>
+<PTS>
+  <PassengerId>399</PassengerId>
+  <Survival>0</Survival>
+  <P>
+    <Passenger>Pain Dr. Alfred</Passenger>
+    <Sex>male</Sex>
+    <Age>23</Age>
+  </P>
+</PTS>
+<PTS>
+  <PassengerId>633</PassengerId>
+  <Survival>1</Survival>
+  <P>
+    <Passenger>Stahelin-Maeglin Dr. Max</Passenger>
+    <Sex>male</Sex>
+    <Age>32</Age>
+  </P>
+</PTS>
+<PTS>
+  <PassengerId>661</PassengerId>
+  <Survival>1</Survival>
+  <P>
+    <Passenger>Frauenthal Dr. Henry William</Passenger>
+    <Sex>male</Sex>
+    <Age>50</Age>
+  </P>
+</PTS>
+<PTS>
+  <PassengerId>767</PassengerId>
+  <Survival>0</Survival>
+  <P>
+    <Passenger>Brewe Dr. Arthur Jackson</Passenger>
+    <Sex>male</Sex>
+  </P>
+</PTS>
+<PTS>
+  <PassengerId>797</PassengerId>
+  <Survival>1</Survival>
+  <P>
+    <Passenger>Leader Dr. Alice (Farnham)</Passenger>
+    <Sex>female</Sex>
+    <Age>49</Age>
+  </P>
+</PTS>
