@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Doctors" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Doctors" msdata:IsDataSet="true" msdata:Locale="en-US">
+        <xs:complexType>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="P">
+                    <xs:complexType>
+                        <xs:attribute name="Passenger" type="xs:string" />
+                        <xs:attribute name="Sex" type="xs:string" />
+                        <xs:attribute name="Age" type="xs:string" />
+                    </xs:complexType>
+                </xs:element>
+            </xs:choice>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

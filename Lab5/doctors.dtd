@@ -1,0 +1,8 @@
+<!ELEMENT Doctors (P*)>
+
+<!ELEMENT P>
+
+<!ATTLIST P
+    Name (#PCDATA) #REQUIRED
+    Sex (#PCDATA)
+    Age (#PCDATA)>
