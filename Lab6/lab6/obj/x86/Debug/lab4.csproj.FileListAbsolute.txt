@@ -1,0 +1,28 @@
+D:/YandexDisk/University/Sem5/[БД] лабы/lab4/lab4/bin/Debug/lab4.exe
+D:/YandexDisk/University/Sem5/[БД] лабы/lab4/lab4/bin/Debug/lab4.pdb
+D:/YandexDisk/University/Sem5/[БД] лабы/lab4/lab4/obj/x86/Debug/ResolveAssemblyReference.cache
+D:/YandexDisk/University/Sem5/[БД] лабы/lab4/lab4/obj/x86/Debug/lab4.exe
+D:/YandexDisk/University/Sem5/[БД] лабы/lab4/lab4/obj/x86/Debug/lab4.pdb
+D:/YandexDisk/University/Sem5/[БД] лабы/lab4/lab4/bin/Debug/lab4.exe.config
+D:/VirtualBox/VMs/winxp32/Share/sql/lab4/lab4/bin/Debug/lab4.exe.config
+D:/VirtualBox/VMs/winxp32/Share/sql/lab4/lab4/obj/x86/Debug/lab4.exe
+X:/sql/lab4/lab4/bin/Debug/lab4.exe.config
+X:/sql/lab4/lab4/obj/x86/Debug/lab4.exe
+/Users/pandas/Downloads/lab4/bin/Debug/lab4.exe.config
+/Users/pandas/Downloads/lab4/bin/Debug/lab4.exe
+/Users/pandas/Downloads/lab4/bin/Debug/lab4.pdb
+/Users/pandas/Downloads/lab4/obj/x86/Debug/lab4.csproj.CoreCompileInputs.cache
+/Users/pandas/Downloads/lab4/obj/x86/Debug/lab4.exe
+/Users/pandas/Downloads/lab4/obj/x86/Debug/lab4.pdb
+/Users/pandas/Documents/University/DataBase/DataBase/Lab5/lab4/bin/Debug/lab4.exe.config
+/Users/pandas/Documents/University/DataBase/DataBase/Lab5/lab4/bin/Debug/lab4.exe
+/Users/pandas/Documents/University/DataBase/DataBase/Lab5/lab4/bin/Debug/lab4.pdb
+/Users/pandas/Documents/University/DataBase/DataBase/Lab5/lab4/obj/x86/Debug/lab4.csproj.CoreCompileInputs.cache
+/Users/pandas/Documents/University/DataBase/DataBase/Lab5/lab4/obj/x86/Debug/lab4.exe
+/Users/pandas/Documents/University/DataBase/DataBase/Lab5/lab4/obj/x86/Debug/lab4.pdb
+/Users/pandas/Documents/University/DataBase/DataBase/Lab6/lab6/bin/Debug/lab4.exe.config
+/Users/pandas/Documents/University/DataBase/DataBase/Lab6/lab6/bin/Debug/lab4.exe
+/Users/pandas/Documents/University/DataBase/DataBase/Lab6/lab6/bin/Debug/lab4.pdb
+/Users/pandas/Documents/University/DataBase/DataBase/Lab6/lab6/obj/x86/Debug/lab4.csproj.CoreCompileInputs.cache
+/Users/pandas/Documents/University/DataBase/DataBase/Lab6/lab6/obj/x86/Debug/lab4.exe
+/Users/pandas/Documents/University/DataBase/DataBase/Lab6/lab6/obj/x86/Debug/lab4.pdb

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Doctors[
+  <!ELEMENT Doctors (Passenger+)>
+  <!ELEMENT Passenger (Survival, Name, Sex, Age)>
+  <!ATTLIST Passenger PassengerId ID #REQUIRED>
+  <!ELEMENT Survival (#PCDATA)>
+  <!ELEMENT Name (#PCDATA)>
+  <!ELEMENT Sex (#PCDATA)>
+  <!ELEMENT Age (#PCDATA)>
+]>
+<Doctors>
+  <?refreshData daily?><![CDATA[<?xml version="1.0"?>]]><Passenger PassengerId="246"><Survival>0</Survival><Name>Minahan Dr. William Edward</Name><Sex>male</Sex><Age>44</Age><!-- has a dog --></Passenger><Passenger PassengerId="318"><Survival>0</Survival><Name>Moraweck Dr. Ernest</Name><Sex>male</Sex><!-- love coffee --></Passenger><Passenger PassengerId="399"><Survival>0</Survival><Name>Pain Dr. Alfred</Name><Sex>male</Sex><Age>23</Age><!-- are married --></Passenger><Passenger PassengerId="633"><Survival>1</Survival><Name>Stahelin-Maeglin Dr. Max</Name><Sex>male</Sex><Age>32</Age><!-- has a daughter --></Passenger><Passenger PassengerId="661"><Survival>1</Survival><Name>Frauenthal Dr. Henry William</Name><Sex>male</Sex><Age>50</Age><!-- want to find his sister --></Passenger><Passenger PassengerId="767"><Survival>0</Survival><Name>Brewe Dr. Arthur Jackson</Name><Sex>male</Sex><Age>45</Age><!-- has no relatives --></Passenger><Passenger PassengerId="797"><Survival>1</Survival><Name>Leader Dr. Alice (Farnham)</Name><Sex>female</Sex><Age>49</Age><!-- teaches at the University of Siena --></Passenger></Doctors>

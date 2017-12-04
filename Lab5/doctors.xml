@@ -1,4 +1,4 @@
-<Doctors
+
   xmlns="urn:MyUri"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:MyUri doctors.xsd">
@@ -9,4 +9,3 @@
   <P Passenger="Moraweck Dr. Ernest" Sex="male" Age="54"/>
   <P Passenger="Minahan Dr. William Edward" Sex="male" Age="44"/>
   <P Passenger="Leader Dr. Alice (Farnham)" Sex="female" Age="49"/>
-</Doctors>
