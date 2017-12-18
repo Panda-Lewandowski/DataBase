@@ -1,0 +1,8 @@
+CREATE PRIMARY XML INDEX idx_1 
+	ON Doctors (Doctor_XML )
+GO
+
+CREATE XML INDEX idx_a 
+	ON Doctors (Doctor_XML )
+USING XML INDEX idx_1 FOR PATH 
+GO
