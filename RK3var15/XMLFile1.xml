@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book Topic="Databases" eBook = "Available">
+    <Pablisher>Wrox</Pablisher>
+    <Title>Microsoft SQL Server 2008 Integration Services: Problem, Design, Solution</Title>
+    <Authors>
+      <Author>Erik Veerman</Author>
+      <Author>Jessica M. Moss</Author>
+      <Author>Brian Knight</Author>
+      <Author>Jay Hackney</Author>
+    </Authors>
+      <ISBN>978-0-470-52576-0</ISBN>
+      <Pages>480</Pages>
+      <PublicationDate>November 2009</PublicationDate>
+      <Price>49.99</Price>
+  </Book>
+  <Book Topic="Databases" eBook = "Available">
+    <Pablisher>Wrox</Pablisher>
+    <Title>Professional Microsoft SQL Server Analysis Services 2008 with MDX</Title>
+    <Authors>
+      <Author>Sivakumar Harinath</Author>
+      <Author>Robert Zare</Author>
+      <Author>Sethu Meenakshisundaram</Author>
+      <Author>Matt Carroll</Author>
+      <Author>Denny Guang-Yeu Lee</Author>
+    </Authors>
+    <ISBN>978-0-470-24798-3</ISBN>
+    <Pages>1056</Pages>
+    <PublicationDate>November 2009</PublicationDate>
+    <Price>49.99</Price>
+  </Book>
+  <Book Topic="Databases" eBook = "Available">
+    <Pablisher>Wrox</Pablisher>
+    <Title>Microsoft SQL Server Reporting Services Recipes: for Designing Expert Reports</Title>
+    <Authors>
+      <Author>Paul Turley</Author>
+      <Author>Robert M. Bruckner</Author>
+    </Authors>
+    <ISBN>978-0-470-56311-3</ISBN>
+    <Pages>648</Pages>
+    <PublicationDate>April 2010</PublicationDate>
+    <Price>49.99</Price>
+  </Book>
+  <Book Topic="Databases" eBook = "Available">
+    <Pablisher>Wrox</Pablisher>
+    <Title>Professional LINQ</Title>
+    <Authors>
+      <Author>Scott Klein</Author>
+    </Authors>
+    <ISBN>978-0-470-52576-0</ISBN>
+    <Pages>408</Pages>
+    <PublicationDate>January 2008</PublicationDate>
+    <Price>49.99</Price>
+  </Book>
+  <Book Topic=".NET" eBook = "Available">
+    <Pablisher>Wrox</Pablisher>
+    <Title>Professional C# 4.0 and .NET 4</Title>
+    <Authors>
+      <Author>Christian Nagel</Author>
+      <Author>Bill Evjen</Author>
+      <Author>Jay Glynn</Author>
+      <Author>Karli Watson</Author>
+      <Author>Morgan Skinner</Author>
+    </Authors>
+    <ISBN>978-0-470-50225-9</ISBN>
+    <Pages>1536</Pages>
+    <PublicationDate>March 2010</PublicationDate>
+    <Price>59.99</Price>
+  </Book>
+  <Book Topic=".NET" eBook = "Available">
+    <Pablisher>Wrox</Pablisher>
+    <Title>C# 4, ASP.NET 4, and WPF, with Visual Studio 2010 Jump Start</Title>
+    <Authors>
+      <Author>Christian Nagel</Author>
+      <Author>Bill Evjen</Author>
+      <Author>Rod Stephens</Author>
+      <Author>Scott Hanselman</Author>
+      <Author>Jay Glynn</Author>
+      <Author>Devin Rader</Author>
+      <Author>Karli Watson</Author>
+      <Author>Morgan Skinner</Author>
+    </Authors>
+    <ISBN>978-0-470-77034-4</ISBN>
+    <Pages>130</Pages>
+    <PublicationDate>March 2010</PublicationDate>
+    <Price>7.99</Price>
+  </Book>  
+  <Book Topic="XML" eBook = "Available">
+    <Pablisher>Apress</Pablisher>
+    <Title>Beginning XML with DOM and Ajax</Title>
+    <Authors>
+      <Author>Sas Jacobs</Author>
+    </Authors>
+    <ISBN>978-1-59059-676-0</ISBN>
+    <Pages>464</Pages>
+    <PublicationDate>June 2006</PublicationDate>
+    <Price>39.99</Price>
+  </Book>
+  <Book Topic="XML" eBook = "Available">
+    <Pablisher>O'Reilly</Pablisher>
+    <Title>XQuery</Title>
+    <Authors>
+      <Author>Priscilla Walmsley</Author>
+    </Authors>
+    <ISBN>978-0-596-00634-1</ISBN>
+    <Pages>512</Pages>
+    <PublicationDate>March 2007</PublicationDate>
+    <Price>49.99</Price>
+  </Book>
+  <Book Topic="XML" eBook = "Available">
+    <Pablisher>Wrox</Pablisher>
+    <Title>Professional XML</Title>
+    <Authors>
+      <Author>Bill Evjen</Author>
+      <Author>Kent Sharkey</Author>
+      <Author>Thiru Thangarathinam</Author>
+      <Author>Michael Kay</Author>
+      <Author>Alessandro Vernet</Author>
+      <Author>Sam Ferguson</Author>
+    </Authors>
+    <ISBN>978-0-471-77777-9</ISBN>
+    <Pages>856</Pages>
+    <PublicationDate>April 2007</PublicationDate>
+    <Price>49.99</Price>
+  </Book>
+  <Book Topic="XML" eBook = "Available">
+    <Pablisher>Wrox</Pablisher>
+    <Title>XSLT 2.0 and XPath 2.0 Programmer's Reference</Title>
+    <Authors>
+      <Author>Michael Kay</Author>
+    </Authors>
+    <ISBN>978-0-470-19274-0</ISBN>
+    <Pages>1368</Pages>
+    <PublicationDate>May 2008</PublicationDate>
+    <Price>59.99</Price>
+  </Book>
+</Books>

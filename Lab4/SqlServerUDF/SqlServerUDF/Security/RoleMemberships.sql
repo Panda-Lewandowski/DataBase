@@ -1,0 +1,10 @@
+﻿ALTER SERVER ROLE [sysadmin] ADD MEMBER [ZENBOOK\Sombrero];
+
+
+GO
+ALTER SERVER ROLE [sysadmin] ADD MEMBER [NT SERVICE\SQLWriter];
+
+
+GO
+ALTER SERVER ROLE [sysadmin] ADD MEMBER [NT SERVICE\Winmgmt];
+
