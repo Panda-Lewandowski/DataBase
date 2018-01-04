@@ -10,9 +10,9 @@ namespace LINQ_to_XML
     {
         static void Main(string[] args)
         {
-            //ReadXML();
-            //ReadFirstXML();
-            //UpdateXML();
+            ReadXML();
+            ReadFirstXML();
+            UpdateXML();
             WriteXML();
             Console.WriteLine("Это все...");
             Console.ReadLine();

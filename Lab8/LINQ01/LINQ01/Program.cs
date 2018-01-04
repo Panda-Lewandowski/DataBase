@@ -104,6 +104,9 @@ namespace LINQ_to_Object
         {
             GetLittleGirls();
             GetSurvived();
+            TypeFiltering();
+            IndexFiltering();
+            CompoundFrom();
             Console.WriteLine("Вот и все...");
             Console.ReadLine();
         }
@@ -133,6 +136,40 @@ namespace LINQ_to_Object
                 Console.WriteLine("{0}  {1}\n", p.Name, p.Ticket);
             }
         }
+
+        static void TypeFiltering()
+        {
+            object[] data = { "one", 2, 3, "four", "five", 6 };
+            var query = data.OfType<string>();
+            foreach (var s in query)
+            {
+                Console.WriteLine(s);
+            }
+        }
+
+        static void IndexFiltering()
+        {
+            var pass = Titanic.GetPassengers().Where((r, index) => r.Name.StartsWith("N") && index > 5);
+            foreach (var r in pass)
+            {
+                Console.WriteLine("{0}  {1}\n", r.Name, r.Ticket);
+            }
+        }
+
+        static void CompoundFrom()
+        {
+            var pass = from r in Titanic.GetPassengers()
+                                 where r.Survival == true
+                                 orderby r.Name
+                                 select r.Name;
+
+            foreach (var r in pass)
+            {
+                Console.WriteLine(r);
+            }
+        }
+
+
 
     }
 }
