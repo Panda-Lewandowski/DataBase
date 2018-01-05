@@ -10,7 +10,7 @@ namespace Lab9.NET
 {
     class Tasks
     {
-        private readonly string connectionString = @"server = 172.20.10.3 ; database = TitanicDB; user id = sa; password = Admin007";
+        private readonly string connectionString = @"server = ; database = TitanicDB; user id = sa; password = ";
 
         static void Main(string[] args)
         {
