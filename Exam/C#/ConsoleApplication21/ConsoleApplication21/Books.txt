@@ -1,0 +1,13 @@
+ISBN-13	Title	LeadAuthor	PubDate 
+978-1-59059-783-5	The Definitive Guide to Samba 4	Smith Roderick W.	Dec 2008 
+978-1-59059-749-1	Exploring C++	Lischner Ray	Dec 2008 
+978-1-59059-946-4	Beginning ASP.NET 3.5 Data Access with LINQ, VB 2008, and ADO.NET: From Novice to Professional	Foggon, Damien	Sep 2008 
+978-1-59059-916-7	Beginning ASP.NET 3.5 Data Access with LINQ, C# 2008, and ADO.NET: From Novice to Professional	Foggon, Damien	Sep 2008 
+978-1-4302-1009-2	Pro Java EE Spring Patterns: Best Practices and Design Strategies Implementing Java EE Patterns with Spring Framework	Kayal, Dhrubojyoti	Aug 2008 
+978-1-59059-942-6	Beginning DB2: From Novice to Professional	Allen, Grant	Aug 2008 
+978-1-4302-0997-3	Beginning XML with C# 2008: From Novice to Professional	Joshi, Bipin	Aug 2008 
+978-1-4302-0975-1	Pro WF: Windows Workflow in .NET 3.5	Bukovics Bruce	Jul 2008 
+978-1-59059-968-6	Beginning Oracle Database 11g Administration: From Novice to Professional	Fernandez, Iggy	Jul 2008 
+978-1-59059-980-8	SQL Server 2008 Transact-SQL Recipes: A Problem-Solution Approach	Sack, Joseph	Jul 2008 
+978-1-59059-934-1	The Definitive Guide to Pylons	Gardner, James	Jul 2008 
+978-1-4302-0991-1	Foundation Web Standards: Design with CSS, XHTML, and AJAX	Lane, Jonathan	Jul 2008

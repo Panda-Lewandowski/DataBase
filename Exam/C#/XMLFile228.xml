@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<courses>
+  <course number = "SE108" department = "software engineering">
+    <title>Object-Oriented Systems Design</title>
+    <instructor>Patrick Young</instructor>
+    <Textbook>J. Bloch; Effective Java (2nd Edition), Prentice Hall, 2008</Textbook>
+    <students>
+      <student sid = "12345">
+        <name>Kseniya Charova</name>
+        <email>kcharova@stanford.edu</email>
+        <grade>8</grade>
+      </student>
+      <student sid = "12346">
+        <name>Evelyn Gillie</name>
+        <email>egillie@stanford.edu</email>
+        <grade>8</grade>
+      </student>
+      <student sid = "12347">
+        <name>Zahid Hossain</name>
+        <email>zhossain@stanford.edu</email>
+        <grade>8</grade>
+      </student>
+      <student sid = "12348">
+        <name>Joseph Lau</name>
+        <email>jhlau@stanford.edu</email>
+        <grade>8</grade>
+      </student>
+      <student sid = "12349">
+        <name>Ethan Lozano</name>
+        <email>edlozano@stanford.edu</email>
+        <grade>8</grade>
+      </student>
+    </students>
+  </course>
+  <course number = "CS143" department = "computing science">
+    <title>Compilers</title>
+    <instructor>Alex Aiken</instructor>
+    <Textbook>A.V. Aho, M.S. Lam, R. Sethi, and J.D. Ullman; Compilers: Principles, Techniques, and Tools (2nd Edition), Addison Wesley, 2006</Textbook>
+    <students>
+      <student sid = "12351">
+        <name>Lin Huang</name>
+        <email>linhuang@stanford.edu</email>
+        <grade>8</grade>
+      </student>
+      <student sid = "12352">
+        <name>Marianne Siroker</name>
+        <email>siroker@cs.stanford.edu</email>
+        <grade>8</grade>
+      </student>
+    </students>
+  </course>
+  <course number = "CS145" department = "computing science">
+    <title>Introduction to Databases</title>
+    <instructor>Jennifer Widom</instructor>
+    <Textbook>J.D. Ullman and J. Widom; A First Course in Database Systems (3d Edition), Prentice Hall, 2008</Textbook>
+    <students>
+      <student sid = "12361">
+        <name>Richard Brewka</name>
+        <email>brewka@cs.ualberta.ca</email>
+        <grade>6</grade>
+      </student>
+      <student sid = "12362">
+        <name>Charles M. Schulz</name>
+        <email>Schulz@cs.ualberta.ca</email>
+        <grade>5</grade>
+      </student>
+    </students>
+  </course>
+  <course number = "SE149" department = "software engineering">
+    <title>Parallel Programming</title>
+    <instructor>Alex Aiken</instructor>
+    <Textbook>T. Rauber and G. Rünger; Parallel Programming: for Multicore and Cluster Systems, Springer, 2010</Textbook>
+    <students>
+      <student sid = "12371">
+        <name>Sue George</name>
+        <email>suegeorge@stanford.edu</email>
+        <grade>7</grade>
+      </student>
+      <student sid = "12372">
+        <name>Darlene Hadding</name>
+        <email>darleneh@stanford.edu</email>
+        <grade>7</grade>
+      </student>
+    </students>
+  </course>
+  <course number = "CS245" department = "computing science">
+    <title>Database System Principles</title>
+    <instructor>Hector Garcia-Molina</instructor>
+    <Textbook>H. Garcia-Molina, J.D. Ullman, and J. Widom; Database Systems: The Complete Book (2nd Edition), Prentice Hall, 2008</Textbook>
+    <students>
+      <student sid = "12381">
+        <name>Aju Thalappillil Scaria</name>
+        <email>ajuts@stanford.edu</email>
+        <grade>8</grade>
+      </student>
+      <student sid = "23482">
+        <name>Manas Joglekar</name>
+        <email>manasrj@stanford.edu</email>
+        <grade>8</grade>
+      </student>
+      <student sid = "12352">
+        <name>Marianne Siroker</name>
+        <email>siroker@cs.stanford.edu</email>
+        <grade>8</grade>
+      </student>
+    </students>
+  </course>
+  <course number = "CS345" department = "computing science">
+    <title>Data Mining</title>
+    <instructor>Jeffrey D. Ullman</instructor>
+    <Textbook>A. Rajaraman, J. Leskovec, and J.D. Ullman; Mining of Massive Datasets, Cambridge University Press, 2013</Textbook>
+    <students>
+      <student sid = "12391">
+        <name>Abhishek Gupta</name>
+        <email>abhig@cs.stanford.edu</email>
+        <grade>8</grade>
+      </student>
+      <student sid = "12392">
+        <name>Roshan Sumbaly</name>
+        <email>rsumbaly@cs.stanford.edu</email>
+        <grade>8</grade>
+      </student>
+    </students>
+  </course>
+  <course number = "CS346" department = "computing science">
+    <title>Database System Implementation</title>
+    <instructor>Hyunjung Park</instructor>
+    <Textbook>H. Garcia-Molina, J.D. Ullman, and J. Widom; Database Systems: The Complete Book (2nd Edition), Prentice Hall, 2008</Textbook>
+    <students>
+      <student sid = "12301">
+        <name>Junsang Cho</name>
+        <email>abhig@cs.stanford.edu</email>
+        <grade>8</grade>
+      </student>
+      <student sid = "12392">
+        <name>Roshan Sumbaly</name>
+        <email>rsumbaly@cs.stanford.edu</email>
+        <grade>8</grade>
+      </student>
+    </students>
+  </course>
+  <course number = "CS347" department = "computing science">
+    <title>Parallel and Distributed Data Management</title>
+    <instructor>Hector Garcia-Molina</instructor>
+    <Textbook>M. T. Özsu and P. Valduriez; Principles of Distributed Database Systems (3d Edition), Springer, 2011</Textbook>
+    <students>
+      <student sid = "12351">
+        <name>Lin Huang</name>
+        <email>linhuang@stanford.edu</email>
+        <grade>8</grade>
+      </student>
+      <student sid = "12352">
+        <name>Marianne Siroker</name>
+        <email>siroker@cs.stanford.edu</email>
+        <grade>8</grade>
+      </student>
+    </students>
+  </course>
+</courses>
+

@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<Books>
+  <Book>
+    <ISBN-13>978-1-59059-783-5</ISBN-13>
+    <Title>The Definitive Guide to Samba 4</Title>
+    <LeadAuthor>Smith Roderick W.</LeadAuthor>
+    <PubDate >Dec 2008 </PubDate >
+  </Book>
+  <Book>
+    <ISBN-13>978-1-59059-749-1</ISBN-13>
+    <Title>Exploring C++</Title>
+    <LeadAuthor>Lischner Ray</LeadAuthor>
+    <PubDate >Dec 2008 </PubDate >
+  </Book>
+  <Book>
+    <ISBN-13>978-1-59059-946-4</ISBN-13>
+    <Title>Beginning ASP.NET 3.5 Data Access with LINQ, VB 2008, and ADO.NET: From Novice to Professional</Title>
+    <LeadAuthor>Foggon, Damien</LeadAuthor>
+    <PubDate >Sep 2008 </PubDate >
+  </Book>
+  <Book>
+    <ISBN-13>978-1-59059-916-7</ISBN-13>
+    <Title>Beginning ASP.NET 3.5 Data Access with LINQ, C# 2008, and ADO.NET: From Novice to Professional</Title>
+    <LeadAuthor>Foggon, Damien</LeadAuthor>
+    <PubDate >Sep 2008 </PubDate >
+  </Book>
+  <Book>
+    <ISBN-13>978-1-4302-1009-2</ISBN-13>
+    <Title>Pro Java EE Spring Patterns: Best Practices and Design Strategies Implementing Java EE Patterns with Spring Framework</Title>
+    <LeadAuthor>Kayal, Dhrubojyoti</LeadAuthor>
+    <PubDate >Aug 2008 </PubDate >
+  </Book>
+  <Book>
+    <ISBN-13>978-1-59059-942-6</ISBN-13>
+    <Title>Beginning DB2: From Novice to Professional</Title>
+    <LeadAuthor>Allen, Grant</LeadAuthor>
+    <PubDate >Aug 2008 </PubDate >
+  </Book>
+  <Book>
+    <ISBN-13>978-1-4302-0997-3</ISBN-13>
+    <Title>Beginning XML with C# 2008: From Novice to Professional</Title>
+    <LeadAuthor>Joshi, Bipin</LeadAuthor>
+    <PubDate >Aug 2008 </PubDate >
+  </Book>
+  <Book>
+    <ISBN-13>978-1-4302-0975-1</ISBN-13>
+    <Title>Pro WF: Windows Workflow in .NET 3.5</Title>
+    <LeadAuthor>Bukovics Bruce</LeadAuthor>
+    <PubDate >Jul 2008 </PubDate >
+  </Book>
+  <Book>
+    <ISBN-13>978-1-59059-968-6</ISBN-13>
+    <Title>Beginning Oracle Database 11g Administration: From Novice to Professional</Title>
+    <LeadAuthor>Fernandez, Iggy</LeadAuthor>
+    <PubDate >Jul 2008 </PubDate >
+  </Book>
+  <Book>
+    <ISBN-13>978-1-59059-980-8</ISBN-13>
+    <Title>SQL Server 2008 Transact-SQL Recipes: A Problem-Solution Approach</Title>
+    <LeadAuthor>Sack, Joseph</LeadAuthor>
+    <PubDate >Jul 2008 </PubDate >
+  </Book>
+  <Book>
+    <ISBN-13>978-1-59059-934-1</ISBN-13>
+    <Title>The Definitive Guide to Pylons</Title>
+    <LeadAuthor>Gardner, James</LeadAuthor>
+    <PubDate >Jul 2008 </PubDate >
+  </Book>
+  <Book>
+    <ISBN-13>978-1-4302-0991-1</ISBN-13>
+    <Title>Foundation Web Standards: Design with CSS, XHTML, and AJAX</Title>
+    <LeadAuthor>Lane, Jonathan</LeadAuthor>
+    <PubDate >Jul 2008</PubDate >
+  </Book>
+</Books>

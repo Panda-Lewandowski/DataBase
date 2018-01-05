@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<Northwind>
+  <Categories>
+    <CategoryID>1</CategoryID>
+    <CategoryName>Beverages</CategoryName>
+    <Description>Soft drinks, coffees, teas, beers, and ales</Description>
+  </Categories>
+  <Categories>
+    <CategoryID>2</CategoryID>
+    <CategoryName>Condiments</CategoryName>
+    <Description>Sweet and savory sauces, relishes, spreads, and seasonings</Description>
+  </Categories>
+  <Categories>
+    <CategoryID>3</CategoryID>
+    <CategoryName>Obsolete</CategoryName>
+    <Description>Desserts, candies, and sweet breads</Description>
+  </Categories>
+  <Categories>
+    <CategoryID>4</CategoryID>
+    <CategoryName>Dairy Products</CategoryName>
+    <Description>Cheeses</Description>
+  </Categories>
+  <Categories>
+    <CategoryID>5</CategoryID>
+    <CategoryName>Grains/Cereals</CategoryName>
+    <Description>Breads, crackers, pasta, and cereal</Description>
+  </Categories>
+  <Categories>
+    <CategoryID>6</CategoryID>
+    <CategoryName>Meat/Poultry</CategoryName>
+    <Description>Prepared meats</Description>
+  </Categories>
+  <Categories>
+    <CategoryID>7</CategoryID>
+    <CategoryName>Produce</CategoryName>
+    <Description>Dried fruit and bean curd</Description>
+  </Categories>
+  <Categories>
+    <CategoryID>8</CategoryID>
+    <CategoryName>Seafood</CategoryName>
+    <Description>Seaweed and fish</Description>
+  </Categories>
+  <Products>
+    <ProductName>Chai</ProductName>
+    <UnitPrice>23.0000</UnitPrice>
+  </Products>
+  <Products>
+    <ProductName>Chang</ProductName>
+    <UnitPrice>24.0000</UnitPrice>
+  </Products>
+  <Products>
+    <ProductName>Guarana Fantastica</ProductName>
+    <UnitPrice>4.5000</UnitPrice>
+  </Products>
+  <Products>
+    <ProductName>Sasquatch Ale</ProductName>
+    <UnitPrice>14.0000</UnitPrice>
+  </Products>
+  <Products>
+    <ProductName>Steeleye Stout</ProductName>
+    <UnitPrice>18.0000</UnitPrice>
+  </Products>
+  <Products>
+    <ProductName>Cote de Blaye</ProductName>
+    <UnitPrice>263.5000</UnitPrice>
+  </Products>
+  <Products>
+    <ProductName>Chartreuse verte</ProductName>
+    <UnitPrice>18.0000</UnitPrice>
+  </Products>
+  <Products>
+    <ProductName>Ipoh Coffee</ProductName>
+    <UnitPrice>46.0000</UnitPrice>
+  </Products>
+  <Products>
+    <ProductName>Laughing Lumberjack Lager</ProductName>
+    <UnitPrice>14.0000</UnitPrice>
+  </Products>
+  <Products>
+    <ProductName>Outback Lager</ProductName>
+    <UnitPrice>15.0000</UnitPrice>
+  </Products>
+  <Products>
+    <ProductName>Rhonbrau Klosterbier</ProductName>
+    <UnitPrice>7.7500</UnitPrice>
+  </Products>
+  <Products>
+    <ProductName>Lakkalikoori</ProductName>
+    <UnitPrice>18.0000</UnitPrice>
+  </Products>
+</Northwind>

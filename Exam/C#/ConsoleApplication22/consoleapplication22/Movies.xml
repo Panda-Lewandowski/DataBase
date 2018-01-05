@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Movies>
+  <Movie Name="Transformers: Dark of the Moon" Year="2011" RunningTime="157">
+    <Director>Michael Bay</Director>
+    <Stars>
+      <Actor>Shia LaBeouf</Actor>
+      <Actress>Rosie Huntington-Whiteley</Actress>
+    </Stars>
+    <DVD>
+      <Price>25.00</Price>
+      <Discount>0,1</Discount>
+    </DVD>
+    <BluRay>
+      <Price>36.00</Price>
+      <Discount>0,1</Discount>
+    </BluRay>
+  </Movie>
+</Movies>
