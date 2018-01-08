@@ -12,8 +12,7 @@ GO
 
 CREATE ASSEMBLY SqlServerUDF
 --AUTHORIZATION dbo
-FROM 'D:\Nick\University\Labs-DB\Lab_4\SqlServerUDF\SqlServerUDF\bin\Debug\SqlServerUDF.dll'
-GO
+FROM 'SqlServerUDF/SqlServerUDF/bin/Debug/SqlServerUDF.dll'
 
 CREATE AGGREGATE CountChet( @instr int )
 RETURNS INT

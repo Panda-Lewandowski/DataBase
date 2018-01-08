@@ -1,5 +1,5 @@
 Create Assembly SqlServerUDF
-FROM 'D:\Nick\University\Labs-DB\Lab_4\SqlServerUDF\SqlServerUDF\bin\Debug\SqlServerUDF.dll'
+FROM 'SqlServerUDF/SqlServerUDF/bin/Debug/SqlServerUDF.dll'
 GO
 
 Create Procedure AvgStuffNum ( @Name NVARCHAR(4000) )

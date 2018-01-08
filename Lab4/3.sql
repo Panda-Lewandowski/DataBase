@@ -1,5 +1,5 @@
 CREATE ASSEMBLY SqlServerUDF
-FROM 'D:\Nick\University\Labs-DB\Lab_4\SqlServerUDF\SqlServerUDF\bin\Debug\SqlServerUDF.dll'
+FROM 'SqlServerUDF/SqlServerUDF/bin/Debug/SqlServerUDF.dll'
 GO
 
 CREATE FUNCTION StrLen ( @InputName NVARCHAR(4000) )

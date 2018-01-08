@@ -10,7 +10,7 @@ GO
 
 CREATE ASSEMBLY SqlServerUDF
 AUTHORIZATION dbo
-FROM 'D:\Nick\University\Labs-DB\Lab_4\SqlServerUDF\SqlServerUDF\bin\Debug\SqlServerUDF.dll'
+FROM 'SqlServerUDF/SqlServerUDF/bin/Debug/SqlServerUDF.dll'
 WITH PERMISSION_SET = SAFE
 GO
 
